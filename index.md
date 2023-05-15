@@ -4,3 +4,5 @@
 
 layout: home
 ---
+Hello world!
+שלום עולם!
