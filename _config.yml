@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: benemanuel homepage
+title: Free words
+subtitle: When you feel something right, share it
 email: benemanuel at geulah dot org dot il
 description: >- # this means to ignore newlines until "baseurl:"
   Avi (Wollman) Benemanuel's Homepage
@@ -31,6 +32,8 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+permalink: :title
+
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this

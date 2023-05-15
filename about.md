@@ -1,18 +1,28 @@
 ---
-layout: page
-title: About
-permalink: /about/
+title: "About אודות"
+created: 2010-12-22
+authors: 
+  - aviwollman
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+מי אני? זו השאלה שאני שואל את עצמי על בסיס קבוע.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+עבור מי שחשבתי שאני אתמול זה לא אותו “אני” היום.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+היום אני אצטרך ללמוד מחדש מי אני.
 
+ממתי יש לי את הצורך המוזר? כנראה כבר מזמן רק שאני חושב ששמתי לב לזה בזמן האחרון.
 
-[jekyll-organization]: https://github.com/jekyll
+למה את/ה פה?
+
+אם את/ה מרגיש משהו שאמרתי שהוא שנון או חכם. אז תשכחו מזה כי אני לא חכם או שנון. אם את/ה מרגיש קצת אמת בלבבכם.
+
+אז קחו את זה לשחק ולבדוק אם זה עדיין מראה ניצוץ של האמת ואם כן, תדעו שלא שלי הוא, אלא ממקור גבוה יותר.
+
+מעוניינם בקשר או להאיר או לשמוע? צורו קשר דוא"ל benemanuel at geulah dot org dot il
+
+Who am I? This question I ask myself on a regular basis. For who I thought I was yesterday is not the same "me" today. Today I'll have to learn who am I anew. Since when do I have this strange need? It seems longer the I think as I only noticed it lately.
+
+Why are you here? If you feel something I said is witty or smart. Then forget it for I am neither smart or witty. If you feel some truth in your heart. Then take it to play with it test it and if it still shows a gleam of truth. Then know it is not mine but from a higher source.
+
+Interested in communicating, to point something out or to listen? contact me email: benemanuel at geulah dot org dot il
