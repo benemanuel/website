@@ -47,3 +47,5 @@ minima:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+google_analytics: G-NVGSYBHJFV
+show_excerpts: true
