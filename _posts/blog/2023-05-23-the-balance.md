@@ -1,5 +1,5 @@
 ---
-title: The balance
+title: "The balance"
 created: 2023-05-23
 authors: 
   - avrahambenemanuel

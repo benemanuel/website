@@ -1,5 +1,5 @@
 ---
-title: "WHY THE COMMANDMENTS?"
+title: "Why the commandments?"
 created: 2012-10-18
 authors: 
   - avrahambenemanuel
