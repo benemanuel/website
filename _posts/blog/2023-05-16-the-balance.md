@@ -7,7 +7,7 @@ authors:
 
 We hear people wanting a balance in life. A balance between what exactly? 
 A balance like the YinYang? A balance between negatives like good and evil?
-(assets/images/yinyang.png)
+![Yin Yang](assets/images/yinyang.png)
 Isn't that nice? Don't we enjoy hearing things like this?
 Don't we all just want to HAVE OUR CAKE AND EAT IT (TOO).
 Are we willing at all to hear the truth?
