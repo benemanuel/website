@@ -6,8 +6,8 @@ authors:
 ---
 
 Hoshea 14,1
-
-תאשם שמרון כי מרתה באלהיה בחרב יפלו עלליהם ירטשו והריותיו יבקעו Samaria shall bear her guilt, for she hath rebelled against her God; they shall fall by the sword; their infants shall be dashed in pieces, and their women who are with child will be cut open.
+<div dir="rtl">
+תאשם שמרון כי מרתה באלהיה בחרב יפלו עלליהם ירטשו והריותיו יבקעו </div>Samaria shall bear her guilt, for she hath rebelled against her God; they shall fall by the sword; their infants shall be dashed in pieces, and their women who are with child will be cut open.
 
 Even if they are close to use, even if they are dear. the prayer will still be that they should stop rebelling and take God on and serve him. But if not and even until so the wrath of God is here NOT against them but for them.
 

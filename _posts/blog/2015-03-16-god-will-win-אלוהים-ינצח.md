@@ -16,7 +16,7 @@ God will win and what ever we choose will no stop his success.
 But God want us to win with him, God wants his success to be with the world he created.
 
 Our choice is between being part of his success or ...
-
+<div dir="rtl">
 כולי תפילה ותקווה עבורי, משפחתי החברי, יחד עם עמי ועולמי שכל אחד ואחד מאיתנו יצטרפו להיות חלק מהצלחה זו.
 
 כי למעשה, לא משנה מה שאנו בוחרים, בין אם זה יהיה לחיים או למוות, שמאלה או ימינה, אמת או שקר, אלוהים ינצח.
@@ -28,3 +28,4 @@ Our choice is between being part of his success or ...
 אבל אלוהים רוצה שינצח איתו, אלוהים רוצה את ההצלחה שלו ביחד עם העולם שהוא יצר.
 
 הבחירה שלנו היא בין להיות חלק מההצלחה או ...
+</div>

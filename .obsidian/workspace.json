@@ -11,8 +11,12 @@
             "id": "eaae7e2d9c721c34",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/blog/2016-08-08-prague-to-vienna-blog.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -69,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/blog/2016-08-08-prague-to-vienna-blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/blog/2016-08-08-prague-to-vienna-blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/blog/2016-08-08-prague-to-vienna-blog.md"
+              }
             }
           }
         ]
@@ -149,34 +156,45 @@
   },
   "active": "eaae7e2d9c721c34",
   "lastOpenFiles": [
-    "_posts/blog/2023-05-19-clear-mind.md",
+    "_posts/blog/2016-05-09-האימון-שלי-זה-אמונת-אלוהים.md",
+    "_posts/blog/2016-04-06-להיות-שמח-במה-שיש.md",
+    "_posts/blog/2016-03-30-כמה-אני-מוכן-להיות-עם-עצמי.md",
+    "_posts/blog/2016-03-29-סדום-sodom.md",
+    "_posts/blog/2016-03-26-success-הצלחה.md",
+    "_posts/blog/2016-03-18-בריא.md",
+    "_posts/blog/2016-03-08-מי-את-עליהנה-בת-גאל.md",
+    "_posts/blog/2016-03-08-hometown-is-no-longer-home.md",
+    "_posts/blog/2016-01-25-30-days-of-gratitude-for-a-life-of-thanksgiving.md",
+    "_posts/blog/2016-01-15-life-is-like-a-car-wash.md",
+    "_posts/blog/2016-01-10-making-your-idol-offensive-tallit-like-scarf.md",
+    "_posts/blog/2016-01-05-ביקורת-criticism.md",
+    "_posts/blog/2015-12-26-gueoula-גאולה.md",
+    "_posts/blog/2015-12-24-bitter-sweet.md",
+    "_posts/blog/2015-12-21-this-kitchen.md",
+    "_posts/blog/2015-10-13-arabs-the-time-is-now-to-show-patriotism.md",
+    "_posts/blog/2015-09-21-מה-זה-להכיר-אלוהים-אישי.md",
+    "_posts/blog/2015-09-20-אהבת-אלוהים.md",
+    "_posts/blog/2015-08-22-patience.md",
+    "_posts/blog/2015-08-08-ביטקוין-הוכחת-עבודה.md",
+    "_posts/blog/2015-08-02-i-love-arabs.md",
+    "_posts/blog/2015-07-27-החיסרון-והחיסרון-האמיתית.md",
+    "_posts/blog/2015-06-28-זמן-איכות.md",
+    "_posts/blog/2015-06-02-חפצי-היקרים.md",
+    "_posts/blog/2015-05-30-the-right-path.md",
+    "_posts/blog/2015-05-30-looking-at-the-bright-side.md",
+    "John_Tenniel_-_Alice_and_the_Cheshire_Cat_1889.jpg",
+    "_site/assets/images/John_Tenniel_-_Alice_and_the_Cheshire_Cat_1889.jpg",
+    "_site/John_Tenniel_-_Alice_and_the_Cheshire_Cat_1889.html",
+    "assets/images/John_Tenniel_-_Alice_and_the_Cheshire_Cat_1889.jpg",
+    "assets/images/John_Tenniel_-_Alice_and_the_Cheshire_Cat_1889.jpg.crdownload",
+    "localsite.url",
     "Untitled.canvas",
-    "2023-05-15.md",
-    "_posts/blog/2013-04-13-האסון-של-יום-העצמאות.md",
-    "_posts/blog/2023-03-20-when-is-dialog-not-an-efficient-technique-in-stopping-aggression.md",
-    "_posts/blog/2023-04-15-defamation-persecution-and-discrimination-of-minorities-remembering-day.md",
-    "_posts/blog/2023-04-28-levitation.md",
-    "_posts/blog/2022-06-13-who-are-you-and-why-do-you-exist.md",
-    "_posts/blog/2007-03-19-fear-feed-evil.md",
-    "_posts/blog/2006-10-26-some-notes.md",
-    "_posts/blog/2006-01-01-hi-we-are-here.md",
-    "_posts/blog/2005-05-27-doing-it-right.md",
-    "_posts/blog/2004-12-23-is-it-enought-just-doing.md",
-    "_posts/blog/2004-12-22-started.md",
-    "_posts/blog/2004-12-21-what-to-start.md",
-    "_posts/blog/2013-05-15-תמונת-נשואין.md",
     "_posts/assets/images/image007.png",
     "_posts/assets/images/image006.png",
     "_posts/assets/images/wpid-wp-1435516442661.jpeg",
     "_posts/assets/images/wedding.jpg",
     "_posts/assets/images/target.png",
     "_posts/assets/images/screen-shot-2019-11-01-at-9.webp",
-    "_posts/assets/images/rakefot.jpg",
-    "_posts/assets/images/piwis_-01_front_large_israel-lapel-pin.jpg",
-    "_posts/assets/images/nopic_user_150.gif",
-    "_posts/assets/images/linus.png",
-    "about.md",
-    "index.md",
-    "README.md"
+    "_posts/assets/images/rakefot.jpg"
   ]
 }
