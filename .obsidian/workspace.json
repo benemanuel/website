@@ -11,12 +11,8 @@
             "id": "eaae7e2d9c721c34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-05-15.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aviwollman",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -62,6 +58,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "df449ddcd9caf054",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -86,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-05-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-05-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-05-15.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,6 +149,7 @@
   },
   "active": "eaae7e2d9c721c34",
   "lastOpenFiles": [
+    "_posts/blog/2023-05-19-clear-mind.md",
     "Untitled.canvas",
     "2023-05-15.md",
     "_posts/blog/2013-04-13-האסון-של-יום-העצמאות.md",
