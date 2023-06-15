@@ -11,9 +11,11 @@
             "id": "873f659476a6d4ea",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/images/image003.jpg"
+                "file": "_posts/blog/2023-04-11-כשרות-על-פי-הרבנים.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/images/image003.jpg",
+                "file": "_posts/blog/2023-04-11-כשרות-על-פי-הרבנים.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/images/image003.jpg",
+                "file": "_posts/blog/2023-04-11-כשרות-על-פי-הרבנים.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/images/image003.jpg"
+                "file": "_posts/blog/2023-04-11-כשרות-על-פי-הרבנים.md"
               }
             }
           }
@@ -166,43 +168,45 @@
   },
   "active": "873f659476a6d4ea",
   "lastOpenFiles": [
-    "_posts/blog/2008-11-28-the-blanket-of-infancy.md",
+    "_posts/blog/2023-04-15-defamation-persecution-and-discrimination-of-minorities-remembering-day.md",
+    "_posts/blog/2023-04-11-כשרות-על-פי-הרבנים.md",
+    "_posts/blog/2023-04-16-מי-שרוצה-להגיע-ליעד.md",
+    "_posts/blog/2023-03-05-והיו-לעץ-אחד.md",
+    "_posts/blog/2023-03-20-when-is-dialog-not-an-efficient-technique-in-stopping-aggression.md",
+    "_posts/blog/2023-04-28-levitation.md",
+    "_posts/blog/2023-05-16-the-balance.md",
+    "_posts/blog/2023-05-19-clear-mind.md",
+    "_posts/blog/2023-06-04-aleph-bet-of-israels-unity.md",
+    "_posts/blog/2023-06-15-will-ai-understand-us-better-than-how-we-understand-ourselves.md",
+    "_posts/blog/2018-11-07-בנוניות-כל-הדרך-לשטן.md",
+    "_posts/blog/2015-08-08-ביטקוין-הוכחת-עבודה.md",
+    "_posts/blog/2015-08-02-i-love-arabs.md",
+    "_posts/blog/2015-04-03-passover-2015-פסח.md",
+    "_posts/blog/2015-03-27-rabbis-knowing-gods-way.md",
+    "_posts/blog/2015-03-28-גיוס-חלוצים-רוחניים.md",
+    "_posts/blog/2015-03-23-the-pech-and-archaeology-in-the-mosquitia.md",
+    "_posts/blog/2015-03-17-גם-לבחור-וגם-למחות.md",
+    "_posts/blog/2015-03-13-mid-march-phobia-2015.md",
+    "_posts/blog/2015-03-04-how-can-i-know-the-bible-i-read-is-valid.md",
+    "_posts/blog/2015-03-03-have-a-dog-but-dont-make-it-your-wife.md",
+    "_posts/blog/2015-03-02-שאלה-אחת-אם-תשובה-אחד-נכונה.md",
+    "_posts/blog/2015-02-26-חול-ברוח.md",
+    "_posts/blog/2015-02-28-דברי-אלוהים-חיים.md",
+    "_posts/blog/2015-02-23-the-rebbies-grandson.md",
+    "_posts/blog/2015-01-23-word-of-the-day-gumption.md",
+    "assets/images/shabbos.jpeg",
+    "assets/images/shabbos.jpeg.crdownload",
+    "assets/images/image003.jpg",
     "assets/images/linus-charlie-brown.jpg",
     "assets/images/linus.png",
-    "linus-charlie-brown.md",
     "assets/images/linus-charlie-brown.jpg.crdownload",
-    "_posts/blog/2009-09-16-כמה-נקודות-שאלוהים-הראה-לי.md",
-    "_posts/blog/2009-08-29-כמה-פניני-מחשבה.md",
-    "_posts/blog/2009-09-20-ביטחון-עצמי-טוב-או-לא-ומה-הגבולות.md",
-    "_posts/blog/2009-09-20-משהוא-נחמד.md",
-    "_posts/blog/2009-09-23-ללא-החוויה-הם-סתם-מילים.md",
-    "_posts/blog/2009-09-24-גשר -המתרים-גשר-עץ-החיים.md",
     "assets/images/46485295_10155888012476918_1191935656083849216_n.jpg",
     "assets/images/46485295_10155888012476918_1191935656083849216_n.jpg.crdownload",
-    "_posts/blog/2009-09-27-זהות-עצמי-who-am-I-אני-משאני-מאמין-I-am-what-I-believe 1.md",
-    "_posts/blog/2009-10-09-בלי-להכיר-שלא-יודעים-אך-אפשר-לזכור.md",
-    "_posts/blog/2009-11-06-עשר-נקודות-לעשות-החיים-יותר-מועילים.md",
-    "_posts/blog/2009-11-14-האיום-הגרעיני.md",
-    "_posts/blog/2009-09-29-נאוטניה-neoteny.md",
-    "_posts/blog/2011-01-29-postmodernism-as-a-spiritual-renaissance.md",
-    "_posts/blog/2010-03-07-when-you-feel-(am)-over-booked-and-the-pressure-is-up-what-do-you-do.md",
-    "_posts/blog/2010-03-28-עדיף-כלום.md",
-    "_posts/blog/2010-04-19-בהודיה-לאלוהים-על-כל-הטוב-שהוא-גומל-עלינו.md",
-    "_posts/blog/2010-05-24-אין-עשן-בלא-אש-ולא-אש-בלא-עשן 1.md",
-    "_posts/blog/2010-05-26-המרירות-של-איכות-ירודה-נשאר-הרבה אחרי-המתיקות-של-מחיר-נמוך-נשכח 1.md",
-    "_posts/blog/2010-06-05-בו-נרוץ-אחרי-עוד-שריפה.md",
-    "_posts/blog/2010-06-29-דרך-המלך-המחודש.md",
-    "_posts/blog/2010-06-30-שבת-אצלך.md",
-    "_posts/blog/2010-09-30-wisdoms-of-the-world.md",
-    "_posts/blog/2010-09-30-הצלחה.md",
-    "_posts/blog/2010-10-20-מי-רוצה-לחיות.md",
     "assets/images/JUDAEA132-135.jpg",
     "assets/images/JUDAEA,_Bar_Kochba_Revolt._132-135_CE._AR_Zuz_ג€“_Denarius_(CNG_300490).jpg",
     "assets/images/330px-Shekel_from_third_year_of_the_first_Jewish-Roman_war.jpg",
     "assets/images/bible_ten_middle.gif",
     "assets/images/bible_ten_early.gif",
-    "John_Tenniel_-_Alice_and_the_Cheshire_Cat_1889.jpg",
-    "_site/assets/images/John_Tenniel_-_Alice_and_the_Cheshire_Cat_1889.jpg",
     "_site/John_Tenniel_-_Alice_and_the_Cheshire_Cat_1889.html",
     "assets/images/John_Tenniel_-_Alice_and_the_Cheshire_Cat_1889.jpg.crdownload",
     "localsite.url",
