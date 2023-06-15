@@ -1,3 +1,9 @@
+---
+title: "Aleph Bet Of Israels Unity"
+created: 2023-06-04
+authors: 
+  - avrahambenemanuel
+---
 
 The unity of God's people Israel is  a dream which as days pass seems further and further apart.
 
@@ -65,10 +71,10 @@ When God designed the stone tablets, what did he have in mind?
 	 
 So the first thing that we know here is that the language and script that they were accustomed to over the past 400 years was the Egyptian script that existed in there surroundings.
 
-A possible example would be Proto-Sinaitic  [[bible_ten_early.gif]] from [https://www.ancient-hebrew.org/biblical-history/ten-commandments-in-hebrew.htm]
+A possible example would be Proto-Sinaitic ![Proto-Sinaitic ten commandments](../../assets/images/bible_ten_early.gif) from [https://www.ancient-hebrew.org/biblical-history/ten-commandments-in-hebrew.htm]
 
 The last lettering used by the united people of Israel would be Paleo-Hebrew. even pre Babylonian exile the nation was already divided and  partially exiled. The dream of a united nation was repeated in the Prophets many times, as well as in the revolt that took place before and after the destruction of temples. 
-exampled in use of paleo-hebrew on the first Jewish revolt coinage was issued in 66 ce [[330px-Shekel_from_third_year_of_the_first_Jewish-Roman_war.jpg]] and second revolt 135 ce.[[JUDAEA132-135.jpg]]
+exampled in use of paleo-hebrew on the first Jewish revolt coinage was issued in 66 ce ![330px-Shekel_from_third_year_of_the_first_Jewish-Roman_war](../../assets/images/330px-Shekel_from_third_year_of_the_first_Jewish-Roman_war.jpg) and second revolt 135 ce.![JUDAEA132-135.jpg](../../assets/images/JUDAEA132-135.jpg)
 
 
 ## Hebrew type of the Modern Era
