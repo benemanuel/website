@@ -27,6 +27,7 @@ git config --global init.defaultBranch main
 
 ---------------------------------
 
+install&run DockerDesktop
 docker run ubuntu
 <ctrl-p>open folder in container
 bundle install
@@ -40,6 +41,10 @@ jekyll build --verbose
 cd C:\Users\avi\GitHub\website.benemanuel
 code .
 Dev Containers: Open folder in Container
+  [Starting Dev Container (show log)](command:remote-containers.revealLogTerminal "Show details in terminal")
+  first time takes a while (running run_once.sh)
+  when shows "Your application running on port 4000 is available.  [See all forwarded ports](command:~remote.forwardedPorts.focus)"
+  then http://127.0.0.1:4000/website/
 Git: Commit All
 Git: Push
 

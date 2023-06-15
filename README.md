@@ -12,3 +12,4 @@ https://bit.ly/3L2WEdZ
 	1. # Obsidian Dynamic RTL - https://github.com/mwxgaf/obsidian-dynamic-rtl
 	2. # RTL SUPPORT - https://github.com/esm7/obsidian-rtl
 	3.  # Obsidian Editing Toolbar - https://github.com/PKM-er/obsidian-editing-toolbar
+6. favicon - https://medium.com/@xiang_zhou/how-to-add-a-favicon-to-your-jekyll-site-2ac2179cc2ed
