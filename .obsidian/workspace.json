@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/blog/2023-06-04-aleph-bet-of-israels-unity.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/blog/2023-06-04-aleph-bet-of-israels-unity.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/blog/2023-06-04-aleph-bet-of-israels-unity.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/blog/2023-06-04-aleph-bet-of-israels-unity.md"
+                "file": "README.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "94d772e894efbc8e",
   "lastOpenFiles": [
-    "וַיְהִ֗י.md",
     "_posts/blog/2023-06-04-aleph-bet-of-israels-unity.md",
+    "וַיְהִ֗י.md",
     "_posts/blog/2023-06-15-will-ai-understand-us-better-than-how-we-understand-ourselves.md",
     "_posts/blog/2023-05-16-the-balance.md",
     "_posts/blog/2023-05-19-clear-mind.md",
