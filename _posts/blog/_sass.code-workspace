@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../_sass"
+		},
+		{
+			"path": "../../_site"
+		},
+		{
+			"path": "../../.devcontainer"
+		},
+		{
+			"path": "../../.obsidian"
+		},
+		{
+			"path": "../../assets"
+		},
+		{
+			"path": "../../assets/images"
+		}
+	],
+	"settings": {}
+}

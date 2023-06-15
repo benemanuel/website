@@ -1,0 +1,208 @@
+C:\WINDOWS\system32>ruby --version
+ruby 3.2.2 (2023-03-30 revision e51014f9c0) [x64-mingw-ucrt]
+
+C:\WINDOWS\system32>jekyll --version
+jekyll 4.3.2
+
+C:\WINDOWS\system32>docker --version
+Docker version 20.10.17, build 100c701
+
+C:\WINDOWS\system32>code --version
+1.78.2
+b3e4e68a0bc097f0ae7907b217c1119af9e03435
+x64
+
+C:\WINDOWS\system32>git --version
+git version 2.40.1.windows.1
+
+C:\WINDOWS\system32>systeminfo | findstr /B /C:"OS Name" /B /C:"OS Version"
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19045 N/A Build 19045
+
+
+$ git config --global user.name "Avi BenEmanuel"
+$ git config --global user.email benemanuel@geulah.org.il
+git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
+git config --global init.defaultBranch main
+
+---------------------------------
+
+docker run ubuntu
+<ctrl-p>open folder in container
+bundle install
+bundle update
+bundle exec jekyll serve --livereload
+
+
+bundle clean --force
+jekyll build --verbose
+--------------------------------------
+cd C:\Users\avi\GitHub\website.benemanuel
+code .
+Dev Containers: Open folder in Container
+Git: Commit All
+Git: Push
+
+
+---
+layout: pageAuto
+--- 
+{% assign paragraphs = page.content | newline_to_br | strip_newlines | split: '<br />' %}
+{% for p in paragraphs %}
+<div dir="auto"> 
+{{ p }}
+</div>
+{% endfor %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
