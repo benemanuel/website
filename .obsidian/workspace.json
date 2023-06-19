@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d76845a0217b8d33",
+        "id": "35fe51c20958c6a3",
         "type": "tabs",
         "children": [
           {
-            "id": "873f659476a6d4ea",
+            "id": "b4ea4a75a3d6835f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/blog/2023-04-11-כשרות-על-פי-הרבנים.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -105,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/blog/2023-04-11-כשרות-על-פי-הרבנים.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/blog/2023-04-11-כשרות-על-פי-הרבנים.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/blog/2023-04-11-כשרות-על-פי-הרבנים.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -166,10 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "873f659476a6d4ea",
+  "active": "b4ea4a75a3d6835f",
   "lastOpenFiles": [
-    "_posts/blog/2023-04-15-defamation-persecution-and-discrimination-of-minorities-remembering-day.md",
+    "2023-06-19.md",
+    "_posts/blog/2023-06-15-will-ai-understand-us-better-than-how-we-understand-ourselves.md",
+    "_posts/blog/2023-06-19-what-a-glutton-i-am.md",
     "_posts/blog/2023-04-11-כשרות-על-פי-הרבנים.md",
+    "_posts/blog/2023-04-15-defamation-persecution-and-discrimination-of-minorities-remembering-day.md",
     "_posts/blog/2023-04-16-מי-שרוצה-להגיע-ליעד.md",
     "_posts/blog/2023-03-05-והיו-לעץ-אחד.md",
     "_posts/blog/2023-03-20-when-is-dialog-not-an-efficient-technique-in-stopping-aggression.md",
@@ -177,7 +173,6 @@
     "_posts/blog/2023-05-16-the-balance.md",
     "_posts/blog/2023-05-19-clear-mind.md",
     "_posts/blog/2023-06-04-aleph-bet-of-israels-unity.md",
-    "_posts/blog/2023-06-15-will-ai-understand-us-better-than-how-we-understand-ourselves.md",
     "_posts/blog/2018-11-07-בנוניות-כל-הדרך-לשטן.md",
     "_posts/blog/2015-08-08-ביטקוין-הוכחת-עבודה.md",
     "_posts/blog/2015-08-02-i-love-arabs.md",
@@ -192,8 +187,6 @@
     "_posts/blog/2015-03-02-שאלה-אחת-אם-תשובה-אחד-נכונה.md",
     "_posts/blog/2015-02-26-חול-ברוח.md",
     "_posts/blog/2015-02-28-דברי-אלוהים-חיים.md",
-    "_posts/blog/2015-02-23-the-rebbies-grandson.md",
-    "_posts/blog/2015-01-23-word-of-the-day-gumption.md",
     "assets/images/shabbos.jpeg",
     "assets/images/shabbos.jpeg.crdownload",
     "assets/images/image003.jpg",
