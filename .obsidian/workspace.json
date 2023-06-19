@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "35fe51c20958c6a3",
+        "id": "65c6e0756160ed39",
         "type": "tabs",
         "children": [
           {
-            "id": "b4ea4a75a3d6835f",
+            "id": "6870a5c50ae2571f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -81,8 +88,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.canvas"
+              }
             }
           }
         ]
@@ -159,8 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4ea4a75a3d6835f",
+  "active": "6870a5c50ae2571f",
   "lastOpenFiles": [
+    "index.md",
+    "linus-charlie-brown.md",
+    "_template/sample.md",
+    "_template",
     "2023-06-19.md",
     "_posts/blog/2023-06-15-will-ai-understand-us-better-than-how-we-understand-ourselves.md",
     "_posts/blog/2023-06-19-what-a-glutton-i-am.md",
@@ -184,9 +198,6 @@
     "_posts/blog/2015-03-13-mid-march-phobia-2015.md",
     "_posts/blog/2015-03-04-how-can-i-know-the-bible-i-read-is-valid.md",
     "_posts/blog/2015-03-03-have-a-dog-but-dont-make-it-your-wife.md",
-    "_posts/blog/2015-03-02-שאלה-אחת-אם-תשובה-אחד-נכונה.md",
-    "_posts/blog/2015-02-26-חול-ברוח.md",
-    "_posts/blog/2015-02-28-דברי-אלוהים-חיים.md",
     "assets/images/shabbos.jpeg",
     "assets/images/shabbos.jpeg.crdownload",
     "assets/images/image003.jpg",
