@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "65c6e0756160ed39",
+        "id": "fbad81b9c4f60976",
         "type": "tabs",
         "children": [
           {
-            "id": "6870a5c50ae2571f",
+            "id": "780b7432e8a2188b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -92,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 546.5
+    "width": 221.5
   },
   "right": {
     "id": "73bf71f25142c6ca",
@@ -108,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,13 +158,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6870a5c50ae2571f",
+  "active": "780b7432e8a2188b",
   "lastOpenFiles": [
+    "_posts/blog/2023-06-24-have-you-turned-on-waze-for-your-trip-today.md",
+    "README.md",
+    "Untitled.canvas",
+    "2023-06-19.md",
     "index.md",
     "linus-charlie-brown.md",
     "_template/sample.md",
     "_template",
-    "2023-06-19.md",
     "_posts/blog/2023-06-15-will-ai-understand-us-better-than-how-we-understand-ourselves.md",
     "_posts/blog/2023-06-19-what-a-glutton-i-am.md",
     "_posts/blog/2023-04-11-כשרות-על-פי-הרבנים.md",
@@ -196,8 +188,6 @@
     "_posts/blog/2015-03-23-the-pech-and-archaeology-in-the-mosquitia.md",
     "_posts/blog/2015-03-17-גם-לבחור-וגם-למחות.md",
     "_posts/blog/2015-03-13-mid-march-phobia-2015.md",
-    "_posts/blog/2015-03-04-how-can-i-know-the-bible-i-read-is-valid.md",
-    "_posts/blog/2015-03-03-have-a-dog-but-dont-make-it-your-wife.md",
     "assets/images/shabbos.jpeg",
     "assets/images/shabbos.jpeg.crdownload",
     "assets/images/image003.jpg",
@@ -213,7 +203,6 @@
     "assets/images/bible_ten_early.gif",
     "_site/John_Tenniel_-_Alice_and_the_Cheshire_Cat_1889.html",
     "assets/images/John_Tenniel_-_Alice_and_the_Cheshire_Cat_1889.jpg.crdownload",
-    "localsite.url",
-    "Untitled.canvas"
+    "localsite.url"
   ]
 }
