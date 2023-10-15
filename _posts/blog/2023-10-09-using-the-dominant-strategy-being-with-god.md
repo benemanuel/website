@@ -4,7 +4,7 @@ created: 2023-10-09
 authors:
   - avrahambenemanuel
 ---
-[https://benemanuel.github.io/website/defamation-persecution-and-discrimination-of-minorities-remembering-day](../defamation-persecution-and-discrimination-of-minorities-remembering-day)
+[https://benemanuel.github.io/website/defamation-persecution-and-discrimination-of-minorities-remembering-day](defamation-persecution-and-discrimination-of-minorities-remembering-day)
 
 @ScottAdamsSays
 
