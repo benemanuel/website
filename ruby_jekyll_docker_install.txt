@@ -59,10 +59,20 @@ layout: pageAuto
 </div>
 {% endfor %}
 
+<div dir="rtl">
+{{content}} 
+</div>
 
 
-
-
+{%- if page.lang == 'he' -%}   
+    <div class="root" data-is-touch="false" dir="rtl">
+        {{content}} 
+    </div>
+{%- else -%}
+    <div class="root" data-is-touch="false">
+        {{content}} 
+    </div>
+{%- endif -%}
 
 
 
