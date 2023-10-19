@@ -2,7 +2,7 @@
   "fileDirections": {
     "_posts/blog/2023-10-17-ישראל-ביחד-ינצח.md": "rtl"
   },
-  "defaultDirection": "ltr",
+  "defaultDirection": "rtl",
   "rememberPerFile": true,
   "setNoteTitleDirection": true,
   "setYamlDirection": false,

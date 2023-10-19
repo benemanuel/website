@@ -1,4 +1,5 @@
 {
   "spellcheck": true,
-  "spellcheckLanguages": null
+  "spellcheckLanguages": null,
+  "rightToLeft": true
 }
