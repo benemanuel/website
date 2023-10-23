@@ -24,9 +24,8 @@ God wants his child to come and be with him. To succeed some things are needed.
 4. Remembering that there is only one God and to show us that we are the epitome of selfishness, and to save us from it.
 5. To realize the great power given to us when Gods spirit lives in us.
 
- 
 
-[![Conchita Wurst who/what are you](assets/images/240px-20140321_dancing_stars_conchita_wurst_41861.jpg)](http://aviwollman.files.wordpress.com/2014/05/240px-20140321_dancing_stars_conchita_wurst_41861.jpg)
+[![Conchita Wurst who/what are you](assets/images/240px-20140321_dancing_stars_conchita_wurst_41861.jpg)]
 
 Conchita Wurst who/what are you?
 
