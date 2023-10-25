@@ -4,7 +4,6 @@ created: 2023-10-23
 authors:
   - avrahambenemanuel
 ---
-
 When is the shadow the largest?
 
 Shadows are longest in the **early morning and late afternoon/early evening** when the sun appears low in the sky. As the Earth rotates on its axis, the sun hits each location in the morning at an angle. This becomes more vertical as the sun appears to pass more directly overhead around noon.
