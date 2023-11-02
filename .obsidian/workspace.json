@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/blog/2023-10-30-my-prayer-to-god.md",
+                "file": "_posts/blog/2023-11-02-the-scale.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/blog/2023-10-30-my-prayer-to-god.md",
+                "file": "_posts/blog/2023-11-02-the-scale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/blog/2023-10-30-my-prayer-to-god.md",
+                "file": "_posts/blog/2023-11-02-the-scale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/blog/2023-10-30-my-prayer-to-god.md"
+                "file": "_posts/blog/2023-11-02-the-scale.md"
               }
             }
           }
@@ -168,20 +168,24 @@
   },
   "active": "01173edda843b701",
   "lastOpenFiles": [
-    "_posts/blog/2023-10-25-תפילתי-לפניך-יהוה.md",
+    "assets/images/scales-of-justice-clipart.png.md",
+    "_posts/blog/2023-11-02-the-scale.md",
+    "assets.md",
+    "assets/images/scales-of-justice-clipart.png",
     "_posts/blog/2023-10-30-my-prayer-to-god.md",
+    "_posts/blog/2023-09-14-help-i-need-somebody.md",
+    "_posts/blog/2023-10-09-using-the-dominant-strategy-being-with-god.md",
+    "_posts/blog/2023-10-15-כאשר-להתרחק-מהם-לעזאזל-זו-לא-אופציה.md",
+    "_posts/blog/2023-10-25-תפילתי-לפניך-יהוה.md",
     "_posts/blog/2023-10-23-the-shadow.md",
     "_posts/blog/2014-05-10-only-god-can-show-me-who-i-really-am.md",
     "_posts/blog/2023-10-17-ישראל-ביחד-ינצח.md",
     "_posts/blog/2009-09-16-כמה-נקודות-שאלוהים-הראה-לי.md",
     "_posts/blog/2022-07-15-two-is-not-one-ב׳-טעמים-במילה-אחד.md",
     "_site/two-is-not-one-ב-טעמים-במילה-אחד.html",
-    "_posts/blog/2023-10-15-כאשר-להתרחק-מהם-לעזאזל-זו-לא-אופציה.md",
     "_posts/blog/2023-10-15-when-get-the-hell-away-from-them-isn't-an-option.md",
     "().md",
-    "_posts/blog/2023-10-09-using-the-dominant-strategy-being-with-god.md",
     "_posts/blog/2020-02-29-על-מה-באמת-לא-הבחירות-ומה-כן.md",
-    "_posts/blog/2023-09-14-help-i-need-somebody.md",
     "_posts/blog/2023-06-24-have-you-turned-on-waze-for-your-trip-today.md",
     "_posts/blog/2023-06-24-שיקרע-עלי-שיקרע.md",
     "README.md",
@@ -194,9 +198,6 @@
     "_posts/blog/2023-06-15-will-ai-understand-us-better-than-how-we-understand-ourselves.md",
     "_posts/blog/2023-06-19-what-a-glutton-i-am.md",
     "_posts/blog/2023-04-11-כשרות-על-פי-הרבנים.md",
-    "_posts/blog/2023-04-15-defamation-persecution-and-discrimination-of-minorities-remembering-day.md",
-    "_posts/blog/2023-04-16-מי-שרוצה-להגיע-ליעד.md",
-    "_posts/blog/2023-03-05-והיו-לעץ-אחד.md",
     "assets/images/shabbos.jpeg",
     "assets/images/shabbos.jpeg.crdownload",
     "assets/images/image003.jpg",
@@ -209,7 +210,6 @@
     "assets/images/JUDAEA,_Bar_Kochba_Revolt._132-135_CE._AR_Zuz_ג€“_Denarius_(CNG_300490).jpg",
     "assets/images/330px-Shekel_from_third_year_of_the_first_Jewish-Roman_war.jpg",
     "assets/images/bible_ten_middle.gif",
-    "assets/images/bible_ten_early.gif",
     "_site/John_Tenniel_-_Alice_and_the_Cheshire_Cat_1889.html",
     "assets/images/John_Tenniel_-_Alice_and_the_Cheshire_Cat_1889.jpg.crdownload",
     "localsite.url"
