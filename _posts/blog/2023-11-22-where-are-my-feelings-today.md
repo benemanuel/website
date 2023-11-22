@@ -1,8 +1,10 @@
 ---
-title: Where is my feelings today
+title: Where are my feelings today
 created: 2023-11-22
 authors:
   - avrahambenemanuel
+tags:
+  - chatgpt_rewrite
 ---
 I often find myself falling into the allure of my heart's desires, as if what my heart longs for is inherently good and right for me. While emotions and the heart certainly have their place, I've come to realize that relying solely on them for motivation is not wise. The heart, left unchecked, can lead me towards indulgence and my worst traits. That's why I try to value wisdom; which acts as a guide, steering me away from impulsive heart-driven actions. Wisdom prompts me to reflect on the consequences of my choices and encourages me to align my desires with what is truly right and good.  
 

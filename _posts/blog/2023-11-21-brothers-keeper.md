@@ -3,6 +3,8 @@ title: Brother's keeper
 created: 2023-11-21
 authors:
   - avrahambenemanuel
+tags:
+  - chatgpt_rewrite
 ---
 Imagine growing up in a community that prided itself on acceptance. In this place, the essence of belonging meant embracing everyone who reciprocated that acceptance. Yet, as I navigated this environment, I realized a fundamental truth: accepting those who actively rejected our existence was inviting trouble and ultimately our destruction.
 

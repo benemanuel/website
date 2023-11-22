@@ -3,6 +3,8 @@ title: Personal responsibility needed
 created: 2023-11-18
 authors:
   - avrahambenemanuel
+tags:
+  - chatgpt_rewrite
 ---
 
 

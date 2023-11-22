@@ -3,6 +3,8 @@ title: " The scale II"
 created: 2023-11-20
 authors:
   - avrahambenemanuel
+tags:
+  - chatgpt_rewrite
 ---
 In a world where distinguishing truth from lies feels like navigating a confusing maze, I grapple with the interplay of mercy and truth. Does truth lose its relevance when mercy prevails, or does mercy lack purpose without the anchor of truth?
 
