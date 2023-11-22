@@ -1,5 +1,5 @@
 ---
-title: Where is my feeling today
+title: Where is my feelings today
 created: 2023-11-22
 authors:
   - avrahambenemanuel
