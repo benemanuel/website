@@ -18,7 +18,8 @@ Both are needed (feelings) mercy and (wisdom) truth can only exist together.
 
 (Proverbs 3:3), I embark on a journey to make mercy and truth my unwavering companions. I envision them encircling me, weaving into the core of my existence, and imprinting their essence onto the tablet of my feelings.
 
-  
+**איפה רגשותי היום**
+
 לעתים קרובות אני מוצא את עצמי נופל לתוך הפיתוי של משאלות ליבי, כאילו מה שלבי מייחל אליו הוא טוב ונכון מטבעו עבורי. אמנם לרגשות וללב יש את מקומם, אבל הבנתי שלהסתמך רק עליהם בשביל מוטיבציה זה לא חכם. הלב, ללא מעצורים, יכול להוביל אותי אל הפינוק והתכונות הגרועות ביותר שלי. לכן אני מנסה להעריך חוכמה; שפועלת כמדריך, ומרחיק אותי מפעולות מונעות על הלב. החוכמה מעודדת אותי לחשוב על ההשלכות של הבחירות שלי ומעודדת אותי ליישר את רצונותיי עם מה שבאמת נכון וטוב.
 
 
