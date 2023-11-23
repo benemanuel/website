@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/blog/2008-06-26-טעם-המלך.md",
+                "file": "_posts/blog/2023-11-23-טעם-המלך-הסבר.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/blog/2008-06-26-טעם-המלך.md",
+                "file": "_posts/blog/2023-11-23-טעם-המלך-הסבר.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/blog/2008-06-26-טעם-המלך.md",
+                "file": "_posts/blog/2023-11-23-טעם-המלך-הסבר.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/blog/2008-06-26-טעם-המלך.md"
+                "file": "_posts/blog/2023-11-23-טעם-המלך-הסבר.md"
               }
             }
           }
@@ -168,16 +168,20 @@
   },
   "active": "01173edda843b701",
   "lastOpenFiles": [
+    "assets/images/311-rivers-of-babylon.webp",
+    "_posts/blog/2023-11-23-טעם-המלך-הסבר.md",
+    "assets/images/311-rivers-of-babylon.webp.crdownload",
+    "_posts/blog/2023-11-22-where-are-my-feelings-today.md",
+    "_posts/blog/2008-06-26-טעם-המלך.md",
+    "_posts/blog/2009-02-27-just-getting-closer.md",
+    "_posts/blog/2009-02-09-what-to-do-with-a-present.md",
+    "_posts/blog/2008-12-28-looking-for-signs.md",
+    "_posts/blog/2008-11-28-the-blanket-of-infancy.md",
     "_posts/blog/2023-11-02-the-scale.md",
     "_posts/blog/2023-11-18-personal_responsibility_needed.md",
     "_posts/blog/2023-11-20-the-scale_II.md",
     "_posts/blog/2023-11-21-שומר-אחי-אנוכי.md",
     "_posts/blog/2023-11-21-brothers-keeper.md",
-    "_posts/blog/2023-11-22-where-are-my-feelings-today.md",
-    "_posts/blog/2008-06-26-טעם-המלך.md",
-    "_posts/blog/2009-02-09-what-to-do-with-a-present.md",
-    "_posts/blog/2008-12-28-looking-for-signs.md",
-    "_posts/blog/2008-11-28-the-blanket-of-infancy.md",
     "_posts/blog/2007-03-19-fear-feed-evil.md",
     "_posts/blog/2006-10-26-some-notes.md",
     "_posts/blog/2006-01-01-hi-we-are-here.md",
@@ -191,9 +195,6 @@
     "_posts/blog/2023-06-15-will-ai-understand-us-better-than-how-we-understand-ourselves.md",
     "_posts/blog/2020-12-10-what-systems-know-it-how-to-be-a-system.md",
     "_posts/blog/2020-12-14-באו-נדליק-נר.md",
-    "_posts/blog/2021-12-09-ובחרתם-בחיים-and-you-choose-life.md",
-    "_posts/blog/2022-01-30-clean-up-what-should-have-been-cleaned-and-not-what-was-trash.md",
-    "_posts/blog/2022-02-07-התנך-ברגש.md",
     "assets/images/scales-of-justice-clipart.png",
     "_site/two-is-not-one-ב-טעמים-במילה-אחד.html",
     "Untitled.canvas",
@@ -209,7 +210,6 @@
     "assets/images/JUDAEA132-135.jpg",
     "assets/images/JUDAEA,_Bar_Kochba_Revolt._132-135_CE._AR_Zuz_ג€“_Denarius_(CNG_300490).jpg",
     "assets/images/330px-Shekel_from_third_year_of_the_first_Jewish-Roman_war.jpg",
-    "assets/images/bible_ten_middle.gif",
     "_site/John_Tenniel_-_Alice_and_the_Cheshire_Cat_1889.html",
     "assets/images/John_Tenniel_-_Alice_and_the_Cheshire_Cat_1889.jpg.crdownload",
     "localsite.url"
