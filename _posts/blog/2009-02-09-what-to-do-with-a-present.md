@@ -1,8 +1,10 @@
 ---
-title: "What to do with a present"
+title: What to do with a present
 created: 2009-02-09
-authors: 
+authors:
   - avrahambenemanuel
+tags:
+  - chatgpt_rewrite
 ---
 God presents you with something your EGO desires. If you satisfy your EGO, it only craves **more**.
 

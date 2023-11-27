@@ -9,7 +9,7 @@ authors:
   - avrahambenemanuel
 ---
 
-## Tradition says there are three types of Torah
+## Exists some tradition that claims that there are three versions of Torah
 
 לפי המסורת המצויה יש שלושה סוגי תורה
 
@@ -25,6 +25,10 @@ I do not know if this tradition is right or wrong. But I do note three different
 
 תורה שבכתב
 
+𐤁𐤓𐤀𐤔𐤉𐤕𐤁𐤓𐤀𐤀𐤋𐤄𐤉𐤌𐤀𐤕𐤄𐤔𐤌𐤉𐤌𐤅𐤀𐤕𐤄𐤀𐤓𐤑
+
+בכתב עברי הקדום in paleo-hebrew
+
 בראשיתבראאלהיםאתהשמיםואתהארץ
 
 if your lucky otherwise it would be אם אותיות סופיות או אולי בלעדיהם
@@ -36,12 +40,15 @@ they wrote without spaces or final characters
 **A Spoken one**
 
 תורה שבעל פה עם ניקוד
+בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ.
+זה שמראה מה ההבהרות the signs explaining how it should be spoken
+bǝrēʾšît bārāʾ ʾĕlōhîm ʾēt haššāmayim wǝʾēt hāʾāreṣ
 
-בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ׃
 
 full with pronoun-cation marking.
 
 **A Hidden one**
+בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ׃
 
 תורה הסוד עם המנגינה הנוגעת בנפש
 
