@@ -9,7 +9,7 @@ tags:
 
 I was once asked if I could live my life among 'ordinary' people who are not actively seeking a life with a clear goal and purpose. The idea of residing in a cemetery, surrounded by those aimlessly drifting like mere walking dead, seemed incongruent with my vibrant connection to life.
 
-God revealed to man the extent of his brokenness. Faced with this realization, man naturally seeks repair. While many may claim to be healers, only one holds the authentic receipts. Man strives for a life filled with meaning, yet often finds constant disrepair. In this pursuit, he seeks the purpose of life, questioning what he lives for, and finally searching for the ultimate healer of all life.
+God revealed to man the extent of his brokenness. Faced with this realization, man naturally seeks repair. While many may claim to be healers, only one holds the authentic attestation. Man strives for a life filled with meaning, yet often finds constant disrepair. In this pursuit, he seeks the purpose of life, questioning what he lives for, and finally searching for the ultimate healer of all life.
 
 נ
 
