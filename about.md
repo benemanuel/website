@@ -1,28 +1,17 @@
 ---
-title: "About אודות"
+title: About אודות
 created: 2010-12-22
-authors: 
+authors:
   - aviwollman
+tags:
+  - chatgpt_rewrite
 ---
-<div dir="rtl">
-מי אני? זו השאלה שאני שואל את עצמי על בסיס קבוע.
-
-עבור מי שחשבתי שאני אתמול זה לא אותו “אני” היום.
-
-היום אני אצטרך ללמוד מחדש מי אני.
-
-ממתי יש לי את הצורך המוזר? כנראה כבר מזמן רק שאני חושב ששמתי לב לזה בזמן האחרון.
-
-למה את/ה פה?
-
-אם את/ה מרגיש משהו שאמרתי שהוא שנון או חכם. אז תשכחו מזה כי אני לא חכם או שנון. אם את/ה מרגיש קצת אמת בלבבכם.
-
-אז קחו את זה לשחק ולבדוק אם זה עדיין מראה ניצוץ של האמת ואם כן, תדעו שלא שלי הוא, אלא ממקור גבוה יותר.
+"מי אני? השאלה הזו עוברת במוחי באופן קבוע. ה'אני' שהאמנתי שהייתי אתמול שונה מה'אני' היום. כל יום אני מוצא את עצמי צריך לגלות מחדש מי אני. מתי התעורר הצורך המוזר הזה? נראה ארוך יותר ממה שחשבתי בתחילה, מכיוון שרק לאחרונה התוודעתי לכך. למה אתה כאן? אם אתה מוצא משהו שאני אומר שנון או חכם, בטל אותו, כי אני לא חכם ולא שנון. אם אתה חש אמת בלב שלך, קח אותה, שחק איתה, בדוק אותה, ואם היא עדיין מגלה ברק של אמת, דע שהיא לא שלי אלא ממקור גבוה יותר".
 
 מעוניינם בקשר או להאיר או לשמוע? צורו קשר דוא"ל benemanuel at geulah dot org dot il
-</div>
-Who am I? This question I ask myself on a regular basis. For who I thought I was yesterday is not the same "me" today. Today I'll have to learn who am I anew. Since when do I have this strange need? It seems longer the I think as I only noticed it lately.
 
-Why are you here? If you feel something I said is witty or smart. Then forget it for I am neither smart or witty. If you feel some truth in your heart. Then take it to play with it test it and if it still shows a gleam of truth. Then know it is not mine but from a higher source.
+"Who am I? This question regularly crosses my mind. The 'me' I believed I was yesterday differs from the 'me' today. Each day, I find myself needing to rediscover who I am. When did this peculiar need arise? It seems longer than I initially thought, as I only recently became aware of it.
+
+Why are you here? If you find anything I say to be witty or smart, dismiss it, for I am neither smart nor witty. If you sense a truth in your heart, take it, play with it, test it, and if it still reveals a gleam of truth, know that it is not mine but from a higher source."
 
 Interested in communicating, to point something out or to listen? contact me email: benemanuel at geulah dot org dot il

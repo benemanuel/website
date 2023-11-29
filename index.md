@@ -1,13 +1,12 @@
 ---
-
 layout: home
+tags:
+  - chatgpt_rewrite
 ---
 When you feel something right, share it.<br>
+כשאתה מרגיש שמשהו נכון, שתף אותו.
 ![Looking out](assets/images/cropped-dsc_0006.jpg)
 
-Grammar and such
-please feel free to ask or attempt to correct. And Moses said unto the LORD, O my Lord, I am not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I am slow of speech, and of a slow tongue. And thank you for those who are helping.
-<div dir="rtl">
-דיקדוק והבנה
-תרגישו חופשי להאיר או לשאול. ויאמר משה אל ה' בי אדני לא איש דברים אנכי גם מתמול גם משלשם גם מאז דברך אל עבדך כי כבד פה וכבד לשון אנכי: ותודה לאילו שעוזרים
-</div>
+As Moses said *Then Moses said to the LORD, “O my Lord, I am not an eloquent man, neither in the past nor since you have spoken to your servant, for I am slow of speech and slow of tongue.”*(Exod4:10). Similarly, I find it difficult at times to express my thoughts clearly and consistently. Additionally, I occasionally make grammatical errors. Please feel free to inform me so that I can address them.
+
+כמו שאמר משה *וַיֹּ֨אמֶר משֶׁ֣ה אֶל־יְהֺוָה֮ בִּ֣י אֲדֹנָי֒ לֹא֩ אִ֨ישׁ דְּבָרִ֜ים אָנֹ֗כִי גַּ֤ם מִתְּמֹול֨ גַּ֣ם מִשִּׁלְשֹׁ֔ם גַּ֛ם מֵאָ֥ז דַּבֶּרְךָ֖ אֶל־עַבְדֶּ֑ךָ כִּ֧י כְבַד־פֶּ֛ה וּכְבַ֥ד לָשֹׁ֖ון אָנֹֽכִי׃*(שמות פרק ד פסוק י). באופן דומה, אני מתקשה לפעמים להביע את מחשבותיי בצורה ברורה ועקבית. בנוסף, אני עושה מדי פעם שגיאות דקדוקיות. אנא אל תהסס ליידע אותי כדי שאוכל להתייחס אליהם.
