@@ -11,9 +11,11 @@
             "id": "01173edda843b701",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_includes/icon-twitter.svg"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_includes/icon-twitter.svg",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_includes/icon-twitter.svg",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_includes/icon-twitter.svg"
+                "file": "README.md"
               }
             }
           }
@@ -164,8 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "895f92f33af59ff6",
+  "active": "01173edda843b701",
   "lastOpenFiles": [
+    "_layouts/home - Copy.html",
+    "_layouts/default - Copy.html",
+    "_layouts/post - Copy.html",
+    "_includes/icon-twitter.svg",
     "_layouts/page - Copy.html",
     "_includes/icon-github.svg",
     "_template/sample.md",
@@ -204,14 +210,10 @@
     "assets/images/target-life-goals.png.crdownload",
     "assets/images/DALL·E_27_11_23.png",
     "assets/images/DALL·E 2023-11-27 14.32.50 - photograph of woman standing in protest while blocking the tractor from continuing to work. the woman is holding a sign _stop_ and is standing in the .png",
-    "assets/images/311-rivers-of-babylon.webp",
     "assets/images/311-rivers-of-babylon.webp.crdownload",
     "_site/two-is-not-one-ב-טעמים-במילה-אחד.html",
     "Untitled.canvas",
     "_template",
-    "assets/images/shabbos.jpeg.crdownload",
-    "assets/images/linus-charlie-brown.jpg.crdownload",
-    "assets/images/46485295_10155888012476918_1191935656083849216_n.jpg.crdownload",
-    "_site/John_Tenniel_-_Alice_and_the_Cheshire_Cat_1889.html"
+    "assets/images/shabbos.jpeg.crdownload"
   ]
 }
