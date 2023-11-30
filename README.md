@@ -15,34 +15,9 @@ https://billraymond.github.io/my-jekyll-docker-website/
 	3.  # Obsidian Editing Toolbar - https://github.com/PKM-er/obsidian-editing-toolbar
 6. favicon - https://medium.com/@xiang_zhou/how-to-add-a-favicon-to-your-jekyll-site-2ac2179cc2ed
 7. rtl support for jekyll - https://stackoverflow.com/questions/47374051/how-to-write-rtl-text-in-jekyll-posts edited in _layouts directory
- a. page.html
- 
-    ***** page-original.html
-	
-    layout: default
-	
-    ***** page.html
+ a. PAGE.HTML
 	
     layout: pageAuto
-	
-    *****
-    
-    ***** page-original.html
-    
-      <div class="post-content">
-        {{ content }}
-      </div>
-    
-    ***** page.html
-    
-    {% assign paragraphs = page.content | newline_to_br | strip_newlines | split: '<br />' %}
-    {% for p in paragraphs %}
-    <div dir="auto">
-    {{ p }}
-    </div>
-    {% endfor %}
-    
-    *****
     
  b. POST.HTML
         
@@ -78,7 +53,7 @@ https://billraymond.github.io/my-jekyll-docker-website/
     layout: pageAuto
     
 8.  chatgpt 3.5 and google translate
-9.  added google search 
+9.  added google search and https://search.google.com/search-console/sitemaps/
 a. https://benemanuel.github.io/website/googlecdc052d7f2d675f8.html
 b. benemanuel.geulah.org.il DNS TXT google-site-verification=zZMuiIvfMduoK35KnAiKswTgAaF9zMdpPiSp-FPlUSI
 c. https://rubygems.org/gems/jekyll-sitemap/versions/1.4.0?locale=en
