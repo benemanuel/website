@@ -14,5 +14,67 @@ https://billraymond.github.io/my-jekyll-docker-website/
 	2. # RTL SUPPORT - https://github.com/esm7/obsidian-rtl
 	3.  # Obsidian Editing Toolbar - https://github.com/PKM-er/obsidian-editing-toolbar
 6. favicon - https://medium.com/@xiang_zhou/how-to-add-a-favicon-to-your-jekyll-site-2ac2179cc2ed
-7. rtl support for jekyll - https://stackoverflow.com/questions/47374051/how-to-write-rtl-text-in-jekyll-posts edited _layouts/page.html
+7. rtl support for jekyll - https://stackoverflow.com/questions/47374051/how-to-write-rtl-text-in-jekyll-posts edited in _layouts directory
+ a. page.html
+ 
+    ***** page-original.html
+	
+    layout: default
+	
+    ***** page.html
+	
+    layout: pageAuto
+	
+    *****
+    
+    ***** page-original.html
+    
+      <div class="post-content">
+        {{ content }}
+      </div>
+    
+    ***** page.html
+    
+    {% assign paragraphs = page.content | newline_to_br | strip_newlines | split: '<br />' %}
+    {% for p in paragraphs %}
+    <div dir="auto">
+    {{ p }}
+    </div>
+    {% endfor %}
+    
+    *****
+    
+ b. POST.HTML
+        
+    ***** post-original.html
+
+    layout: default
+
+    ***** post.html
+
+    layout: pageAuto
+
+    *****
+    
+    ***** post-original.html
+    
+      <div class="post-content e-content" itemprop="articleBody">
+        {{ content }}
+      </div>
+    
+    ***** post.html
+    
+    {% assign paragraphs = page.content | newline_to_br | strip_newlines | split: '<br />' %}
+    {% for p in paragraphs %}
+    <div dir="auto" class="post-content e-content" itemprop="articleBody">
+    {{ p }}
+    </div>
+    {% endfor %} 
+    
+    *****
+
+ c. HOME.HTML
+ 
+    layout: pageAuto
+    
 8.  chatgpt 3.5 and google translate

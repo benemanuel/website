@@ -5,6 +5,7 @@ tags:
 ---
 When you feel something right, share it.<br>
 כשאתה מרגיש שמשהו נכון, שתף אותו.
+
 ![Looking out](assets/images/cropped-dsc_0006.jpg)
 
 As Moses said *Then Moses said to the LORD, “O my Lord, I am not an eloquent man, neither in the past nor since you have spoken to your servant, for I am slow of speech and slow of tongue.”*(Exod4:10). Similarly, I find it difficult at times to express my thoughts clearly and consistently. Additionally, I occasionally make grammatical errors. Please feel free to inform me so that I can address them.

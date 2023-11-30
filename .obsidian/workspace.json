@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_posts/blog/2010-12-12-the-two-sided-coin-of-life.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_posts/blog/2010-12-12-the-two-sided-coin-of-life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "_posts/blog/2010-12-12-the-two-sided-coin-of-life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "_posts/blog/2010-12-12-the-two-sided-coin-of-life.md"
               }
             }
           }
@@ -166,8 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01173edda843b701",
+  "active": "895f92f33af59ff6",
   "lastOpenFiles": [
+    "googlecdc052d7f2d675f8.html",
+    "README.md",
+    "index.md",
     "_layouts/home - Copy.html",
     "_layouts/default - Copy.html",
     "_layouts/post - Copy.html",
@@ -175,8 +178,6 @@
     "_layouts/page - Copy.html",
     "_includes/icon-github.svg",
     "_template/sample.md",
-    "README.md",
-    "index.md",
     "about.md",
     "_site/README.md",
     "_posts/blog/2010-12-24-to-live-have-a-life-enjoy-isnt-that-whats-life-about-תחיה-שיהי-לך-חיים-נהנה-הלא-ב.md",
@@ -213,7 +214,6 @@
     "assets/images/311-rivers-of-babylon.webp.crdownload",
     "_site/two-is-not-one-ב-טעמים-במילה-אחד.html",
     "Untitled.canvas",
-    "_template",
-    "assets/images/shabbos.jpeg.crdownload"
+    "_template"
   ]
 }
