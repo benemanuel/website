@@ -11,11 +11,9 @@
             "id": "01173edda843b701",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_posts/blog/2010-12-22-שבר-כלי-אנוכי.md",
-                "mode": "source",
-                "source": false
+                "file": "_includes/icon-twitter.svg"
               }
             }
           }
@@ -89,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 219.5
   },
   "right": {
     "id": "73bf71f25142c6ca",
@@ -105,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/blog/2010-12-22-שבר-כלי-אנוכי.md",
+                "file": "_includes/icon-twitter.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/blog/2010-12-22-שבר-כלי-אנוכי.md",
+                "file": "_includes/icon-twitter.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/blog/2010-12-22-שבר-כלי-אנוכי.md"
+                "file": "_includes/icon-twitter.svg"
               }
             }
           }
@@ -166,11 +164,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01173edda843b701",
+  "active": "895f92f33af59ff6",
   "lastOpenFiles": [
-    "_posts/blog/2010-12-22-a-broken-vessel-i-am.md",
-    "_posts/blog/2010-12-22-שבר-כלי-אנוכי.md",
+    "_layouts/page - Copy.html",
+    "_includes/icon-github.svg",
+    "_template/sample.md",
+    "README.md",
+    "index.md",
+    "about.md",
+    "_site/README.md",
     "_posts/blog/2010-12-24-to-live-have-a-life-enjoy-isnt-that-whats-life-about-תחיה-שיהי-לך-חיים-נהנה-הלא-ב.md",
+    "_posts/blog/2010-12-22-שבר-כלי-אנוכי.md",
+    "_posts/blog/2010-12-22-a-broken-vessel-i-am.md",
     "_posts/blog/2010-12-26-only-you-can-take-responsibility-for-your-peace-of-mind.md",
     "_posts/blog/2010-12-24-תחיה-שיהי-לך-חיים-נהנה-הלא-בשביל-זה-אתה.md",
     "_posts/blog/2010-12-24-כולם-מאמינם-שהכל-ייגמר-בטוב-אז-מה-המשחק.md",
@@ -184,10 +189,6 @@
     "_posts/blog/2010-12-04-is-it-a-twinkle-in-the-eye-or-tears.md",
     "_posts/blog/2010-12-04-fix-the-world-today.md",
     "_posts/authors/avrahambenemanuel.md",
-    "_template/sample.md",
-    "README.md",
-    "index.md",
-    "about.md",
     "assets/images/sunflower.jpg",
     "assets/images/maze.jpg",
     "assets/images/twinkle_twinkle_little_eye_by_countessbathori_d1f5sc8.jpg",
@@ -199,15 +200,12 @@
     "_posts/blog/2010-11-19-temple-builders 1.md",
     "_posts/blog/2010-11-02-חלומות-הלילה.md",
     "_posts/blog/2010-10-24-the-different-types-of-torah 1.md",
-    "_posts/blog/2010-10-20-מי-רוצה-לחיות.md",
-    "_posts/blog/2010-09-30-הצלחה.md",
     "assets/images/target-life-goals.png",
     "assets/images/target-life-goals.png.crdownload",
     "assets/images/DALL·E_27_11_23.png",
     "assets/images/DALL·E 2023-11-27 14.32.50 - photograph of woman standing in protest while blocking the tractor from continuing to work. the woman is holding a sign _stop_ and is standing in the .png",
     "assets/images/311-rivers-of-babylon.webp",
     "assets/images/311-rivers-of-babylon.webp.crdownload",
-    "assets/images/scales-of-justice-clipart.png",
     "_site/two-is-not-one-ב-טעמים-במילה-אחד.html",
     "Untitled.canvas",
     "_template",

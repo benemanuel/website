@@ -8,7 +8,7 @@ tags:
 ---
 "מי אני? השאלה הזו עוברת במוחי באופן קבוע. ה'אני' שהאמנתי שהייתי אתמול שונה מה'אני' היום. כל יום אני מוצא את עצמי צריך לגלות מחדש מי אני. מתי התעורר הצורך המוזר הזה? נראה ארוך יותר ממה שחשבתי בתחילה, מכיוון שרק לאחרונה התוודעתי לכך. למה אתה כאן? אם אתה מוצא משהו שאני אומר שנון או חכם, בטל אותו, כי אני לא חכם ולא שנון. אם אתה חש אמת בלב שלך, קח אותה, שחק איתה, בדוק אותה, ואם היא עדיין מגלה ברק של אמת, דע שהיא לא שלי אלא ממקור גבוה יותר".
 
-מעוניינם בקשר או להאיר או לשמוע? צורו קשר דוא"ל benemanuel at geulah dot org dot il
+מעוניינים בקשר או להאיר או לשמוע? צורו קשר דוא"ל benemanuel at geulah dot org dot il
 
 "Who am I? This question regularly crosses my mind. The 'me' I believed I was yesterday differs from the 'me' today. Each day, I find myself needing to rediscover who I am. When did this peculiar need arise? It seems longer than I initially thought, as I only recently became aware of it.
 
