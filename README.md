@@ -82,3 +82,9 @@ https://billraymond.github.io/my-jekyll-docker-website/
 a. https://benemanuel.github.io/website/googlecdc052d7f2d675f8.html
 b. benemanuel.geulah.org.il DNS TXT google-site-verification=zZMuiIvfMduoK35KnAiKswTgAaF9zMdpPiSp-FPlUSI
 c. https://rubygems.org/gems/jekyll-sitemap/versions/1.4.0?locale=en
+d. whatever.xml
+e. _config.yml
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
