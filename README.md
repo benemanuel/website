@@ -78,3 +78,7 @@ https://billraymond.github.io/my-jekyll-docker-website/
     layout: pageAuto
     
 8.  chatgpt 3.5 and google translate
+9.  added google search 
+a. https://benemanuel.github.io/website/googlecdc052d7f2d675f8.html
+b. benemanuel.geulah.org.il DNS TXT google-site-verification=zZMuiIvfMduoK35KnAiKswTgAaF9zMdpPiSp-FPlUSI
+c. https://rubygems.org/gems/jekyll-sitemap/versions/1.4.0?locale=en

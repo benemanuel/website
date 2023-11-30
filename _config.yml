@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Avi (Wollman) Benemanuel's Homepage
 baseurl: "/website" # the subpath of your site, e.g. /blog
 url: "https://benemanuel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: aviwollman
+twitter_username: AviBenemanuel
 github_username:  benemanuel
 facebook_username: son.of.emanuel
 instagram_username: avrahambenemanuel
@@ -33,6 +33,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 permalink: :title
 
 
