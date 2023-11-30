@@ -1,3 +1,4 @@
+---
 title: Awakening call again
 created: 2023-11-30
 authors:
@@ -20,22 +21,20 @@ So we are yet to see the body rise as God's spirit enters it.
 That same spirit which connects all the tribes of Israel to be one.
 That same spirit which knows its mission to be the light among the nations and by being together is not confused and conflicted.
 
-And with God's Spirit entering it, the nations of the world will fear and renowned Israel. As stated "Then all the peoples of the earth will see that you belong to the Lord, and they will respect you." Deuteronomy 28:10
+There are still some who are not ready to hear.
+*Then some people said, “Come on! Let us consider how to deal with Jeremiah! There will still be priests to instruct us, wise men to give us advice, and prophets to declare God’s word. Come on! Let’s bring charges against him and get rid of him! Then we will not need to pay attention to anything he says.”*
 
-"They will lick the dust like a snake,
-like serpents crawling on the ground.
-They will come trembling from their strongholds
-to the Lord our God;
-they will be terrified of you.
-Who is a God like you?
-Who forgives sin
-and pardons the rebellion
-of those who remain among his people?
-Who does not stay angry forever,
-but delights in showing loyal love?
-Who will once again have mercy on us?
-Who will conquer our evil deeds?
-Who will hurl all our sins into the depths of the sea?" Micah 7:17-19
+*Then I said,*
+
+*"Lord, pay attention to me.  
+Listen to what my enemies are saying.  
+Should good be paid back with evil?  
+Yet they are virtually digging a pit to kill me.  
+Just remember how I stood before you  
+pleading on their behalf  
+to keep you from venting your anger on them."* (Jeremiah 18:18-20)
+
+But nevertheless there must be an entry of  God's Spirit entering it, the nations of the world will fear and renowned Israel. As stated "*Then all the peoples of the earth will see that you belong to the Lord, and they will respect you.*" (Deuteronomy 28:10)
 
 But not all. We still have Gog and Magog to face.
 
