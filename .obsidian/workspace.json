@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "_posts/blog/2023-11-30-שוב-הקריאה.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "_posts/blog/2023-11-30-שוב-הקריאה.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "_posts/blog/2023-11-30-שוב-הקריאה.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "_posts/blog/2023-11-30-שוב-הקריאה.md"
               }
             }
           }
@@ -169,6 +169,7 @@
   "active": "01173edda843b701",
   "lastOpenFiles": [
     "_posts/blog/2023-11-30-awakening-call-again.md",
+    "index.md",
     "_posts/blog/2023-11-30-שוב-הקריאה.md",
     "_posts/blog/2010-12-12-the-two-sided-coin-of-life.md",
     "_posts/blog/2023-11-30-awakening-call-again",
@@ -176,7 +177,6 @@
     "whatever.xml",
     "googlecdc052d7f2d675f8.html",
     "README.md",
-    "index.md",
     "_layouts/home - Copy.html",
     "_layouts/default - Copy.html",
     "_layouts/post - Copy.html",
