@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/blog/2023-11-30-awakening-call-again.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/blog/2023-11-30-awakening-call-again.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/blog/2023-11-30-awakening-call-again.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/blog/2023-11-30-awakening-call-again.md"
+                "file": "index.md"
               }
             }
           }
@@ -168,8 +168,8 @@
   },
   "active": "01173edda843b701",
   "lastOpenFiles": [
-    "_posts/blog/2023-11-30-שוב-הקריאה.md",
     "_posts/blog/2023-11-30-awakening-call-again.md",
+    "_posts/blog/2023-11-30-שוב-הקריאה.md",
     "_posts/blog/2010-12-12-the-two-sided-coin-of-life.md",
     "_posts/blog/2023-11-30-awakening-call-again",
     "_layouts/pageAuto.html",
