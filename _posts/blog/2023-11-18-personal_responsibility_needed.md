@@ -14,6 +14,7 @@ My experiences shaped a mindset of expecting self-centered environments, prompti
 
 Dreams of streets paved with gold lead many to Jerusalem, akin to the American dream at Ellis Island. However, as one immigrant humorously noted, “I came to America because I heard the streets were paved with gold. When I got here, I found out three things: First, the streets weren’t paved with gold; second, they weren’t paved at all: and third, I was expected to pave them.”
 [https://www.nationofimmigrators.com/in-memory/](An Italian Immigrant whose words are posted at the Ellis Island Museum). Opportunities exist, but hard work and personal responsibility is the key.
+[An Italian Immigrant whose words are posted at the Ellis Island Museum](https://www.nationofimmigrators.com/in-memory/)
 
 The hard work to:
 
