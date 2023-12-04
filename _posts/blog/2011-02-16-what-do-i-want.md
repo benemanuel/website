@@ -1,10 +1,27 @@
 ---
-title: "What do I want?"
+title: What do I want?
 created: 2011-02-16
-authors: 
+authors:
   - avrahambenemanuel
+tags:
+  - chatgpt_rewrite
 ---
 
+We are all humans with flesh and blood, and as such, we have likes, opinions, desires, and personal interests. Perhaps this morning, a spouse angered us, a neighbor yelled, or our food spoiled. In the midst of these everyday challenges, what can we truly expect? Justice, truth, and pure ethics?
+
+Do we live in a utopian existence with angels, or do we reside in the reality of human existence in this world?
+
+Can we claim the ability to judge others when, in reality, we all grapple with emotions like jealousy, anger, revenge, and lust? Despite feeling these emotions, we're inherently human and selfish. When faced with criticism or confrontation, we often experience a sense of humiliation.
+
+One might wonder, does this lead to the conclusion that there is no universal truth in the world; instead, everyone possesses their own truth? If chance aligns us with someone whose truth involves harmful actions, is that acceptable? Is it justifiable that luck led others to be under the influence of someone compassionate towards their crimes and lies?
+
+Yet, in this world, there is a divine force, a unique truth. The Day of Judgment awaits, where all living beings will be judged by this ultimate truth. Regardless of education, views, desires, or any other factors, there exists one divine truth that is right and just for all.
+
+Importantly, the person driven by egoistic desires and personal interests is creating the very judgment that will ultimately encompass them.
+
+
+
+original:
 We are all of man of flesh and blood and as such he has like, he has opinions, wants, wishes and personal interested. His wife angered him this morning, the neighbor yelled at him, his food was spoiled.
 
 At all what I expect? Justice, truth, pure ethics?

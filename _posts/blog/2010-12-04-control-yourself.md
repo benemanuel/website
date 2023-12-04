@@ -1,8 +1,10 @@
 ---
-title: "Control yourself ?"
+title: Control yourself ?
 created: 2010-12-04
-authors: 
+authors:
   - avrahambenemanuel
+tags:
+  - chatgpt_rewrite
 ---
 I often find myself thinking I've got everything under control, feeling pretty smart about it all – at least until the next challenge comes my way.
 

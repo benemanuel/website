@@ -4,7 +4,21 @@ created: 2011-01-29
 authors: 
   - avrahambenemanuel
 ---
+I've eagerly awaited this moment for over a year, and finally, the time has arrived.
 
+Questioning everything has become a popular trend in the postmodern era. It's about never making assumptions, adopting a skeptical stance toward ingrained values, and considering the relativity of everything. The idea is to ask probing questions and subject everything, even supposedly sacred beliefs, to scrutiny. This approach allows individuals to engage with things from an outsider's perspective.
+
+Questioning is deemed not just healthy but necessary, especially after the dark ages of the past two millennia, a time when divine words were entrusted to human hands. It serves as a tool to explore aspects within ourselves that we might be hesitant to confront. However, like any tool, questioning can be misused, leading individuals to feel godlike by constantly placing a question mark on everything, thereby inflating their egos.
+
+Yet, amid the vast array of questions, there is an answer—a singular God, a singular good, a singular truth.
+
+However, the questions persist. Which God? Which truth? Each person asserts their version.
+
+The answer lies within. At some point, everyone has experienced THE TRUTH and FELT GOD within themselves. Yet, this profound sensation is often avoided because it constrains personal desires and freedoms. The truth imposes limits in one way or another.
+
+God, who created us all, provides answers within. The key is to look inside, not just today but every day.
+
+original:
 I have been waiting over a year to write this. And the time has come.
 
 The ability to question everything is the "in" thing of the postmodern. Never assume, be skeptical toward values you have been taught, isn’t everything relative? Ask questions and place everything no matter who claims it to be holy on the examination table. This allows a person to start relating to things as an "outsider".
