@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/blog/2011-02-20-the-arab-people.md",
+                "file": "_posts/blog/2015-02-25-liveliving-diedying.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 503.5
   },
   "right": {
     "id": "73bf71f25142c6ca",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/blog/2011-02-20-the-arab-people.md",
+                "file": "_posts/blog/2015-02-25-liveliving-diedying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/blog/2011-02-20-the-arab-people.md",
+                "file": "_posts/blog/2015-02-25-liveliving-diedying.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/blog/2011-02-20-the-arab-people.md"
+                "file": "_posts/blog/2015-02-25-liveliving-diedying.md"
               }
             }
           }
@@ -168,32 +168,39 @@
   },
   "active": "01173edda843b701",
   "lastOpenFiles": [
+    "_posts/blog/xx",
+    "_posts/blog/x",
+    "_posts/blog/2015-02-23-the-rebbies-grandson.md",
+    "_posts/blog/2015-02-25-liveliving-diedying.md",
+    "assets/images/Alice_and_the_Cheshire_Cat_1889.jpg",
+    "_posts/blog/2010-12-04-life-is-so-amazing.md",
+    "assets/images/DALL-E_27_11_23.png",
+    "_posts/blog/2010-12-04-is-it-a-twinkle-in-the-eye-or-tears.md",
+    "_posts/blog/2012-10-18-why-the-commandments.md",
+    "assets/images/butterfly_emerging.jpg",
+    "assets/images/butterfly_emerging.jpg.crdownload",
+    "assets/images/caterpillar-6.jpg",
+    "assets/images/caterpillar-6.jpg.crdownload",
+    "assets/images/butterfly_emerging.jpg.md",
+    "_posts/blog/2011-04-11-the-prayers-charms-medicine-that-remove-man-from-the-world.md",
+    "_posts/blog/2011-04-09-תל-חי-את-פסלו-של-בוריס-שץ-משה-1918.md",
+    "_posts/blog/2011-04-09-tel-hai-the-statue-of-boris-schatz-moses-1918.md",
+    "_posts/blog/2011-04-08-photos-of-the-trip.md",
+    "_posts/blog/2011-04-08-cyclamen-zebra.md",
+    "_posts/blog/2009-09-23-ללא-החוויה-הם-סתם-מילים.md",
+    "_posts/blog/2010-05-24-אין-עשן-בלא-אש-ולא-אש-בלא-עשן 1.md",
+    "_posts/blog/2010-04-19-בהודיה-לאלוהים-על-כל-הטוב-שהוא-גומל-עלינו.md",
+    "_posts/blog/2010-12-12-the-two-sided-coin-of-life.md",
+    "_posts/blog/2010-12-04-control-yourself.md",
+    "_posts/blog/2010-12-04-fix-the-world-today.md",
+    "_posts/blog/2010-11-19-temple-builders 1.md",
+    "_posts/blog/2010-11-02-חלומות-הלילה.md",
+    "_posts/blog/2010-06-30-שבת-אצלך.md",
+    "_posts/blog/2011-02-20-the-arab-people.md",
     "_posts/blog/2011-02-16-מה-אני-רוצה.md",
     "_posts/blog/2011-02-16-what-do-i-want.md",
     "_posts/blog/2011-02-02-i-want-money.md",
     "_posts/blog/2011-01-31-לחפש-מתת-אלוהים.md",
-    "_posts/blog/2011-01-31-הבטחות-ומתנות-צפויות.md",
-    "_posts/blog/2011-01-31-promises-and-expected-gifts.md",
-    "_posts/blog/2011-01-31-finding-the-gift-of-god-godsent.md",
-    "_posts/blog/2011-01-29-פוסטמודרניזם-כתחייה-רוחנית.md",
-    "_posts/blog/2011-01-29-postmodernism-as-a-spiritual-renaissance.md",
-    "_posts/blog/2011-01-25-נו-ומה-השריטהות-שלך.md",
-    "_posts/blog/2011-01-25-so-whats-your-scratch.md",
-    "_posts/blog/2011-01-24-ככה-חופרים-בורות-לעצמנו.md",
-    "_posts/blog/2011-01-24-like-digging-pit-holes-for-ourselves.md",
-    "_posts/blog/2011-01-17-להרגיש-את-הרוח.md",
-    "_posts/blog/2011-01-17-feeling-the-spirit.md",
-    "_posts/blog/2011-01-16-איוב-של-אז-רלוונטי-גם-היום.md",
-    "_posts/blog/2011-01-16-jobs-so-relevant-today.md",
-    "_posts/blog/2011-01-11-מה-שאלוהים-רוצה.md",
-    "_posts/blog/2011-01-11-what-does-god-want.md",
-    "_posts/blog/2011-01-09-אני-הבעיה-הגדולה-ביותר-שיש-לי.md",
-    "_posts/blog/2011-01-09-i-am-the-biggest-problem-i-have.md",
-    "_posts/blog/2011-01-02-החיים-עם-אלוהים-כיצד.md",
-    "_posts/blog/2011-01-02-life-with-god-how.md",
-    "_posts/blog/2010-12-31-אינני-מדריך.md",
-    "_posts/blog/2010-12-31-im-not-a-guide.md",
-    "_posts/blog/2010-12-28-טוב-להודות-ליהוה-ולזמר-לשמך-עליון.md",
     "_posts/blog/2023-11-30-awakening-call-again",
     "_layouts/pageAuto.html",
     "whatever.xml",
@@ -202,18 +209,11 @@
     "_layouts/default - Copy.html",
     "_layouts/post - Copy.html",
     "_includes/icon-twitter.svg",
-    "_layouts/page - Copy.html",
     "_includes/icon-github.svg",
     "assets/images/sunflower.jpg",
     "assets/images/maze.jpg",
     "assets/images/twinkle_twinkle_little_eye_by_countessbathori_d1f5sc8.jpg",
     "assets/images/d1f5sc8-8b374104-514f-4405-a6f7-d83692b5949b.jpg",
-    "assets/images/d1f5sc8-8b374104-514f-4405-a6f7-d83692b5949b.jpg.crdownload",
-    "assets/images/Squeezing_steering_wheel__300_200_int_c1-1x.jpg",
-    "assets/images/Squeezing_steering_wheel__300_200_int_c1-1x.jpg.crdownload",
-    "assets/images/target-life-goals.png",
-    "assets/images/DALL·E_27_11_23.png",
-    "assets/images/DALL·E 2023-11-27 14.32.50 - photograph of woman standing in protest while blocking the tractor from continuing to work. the woman is holding a sign _stop_ and is standing in the .png",
     "Untitled.canvas"
   ]
 }

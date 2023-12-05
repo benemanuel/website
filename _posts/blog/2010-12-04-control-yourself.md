@@ -8,7 +8,7 @@ tags:
 ---
 I often find myself thinking I've got everything under control, feeling pretty smart about it all – at least until the next challenge comes my way.
 
-![in control](Squeezing_steering_wheel__300_200_int_c1-1x.jpg)
+![in control](assets/images/Squeezing_steering_wheel__300_200_int_c1-1x.jpg)
 
 It's curious, though. Why is it that I only seem to remember to turn to God when things get tough? Could it be that my sense of control creates a blind spot, making me overlook the genuine need for God's guidance?
 

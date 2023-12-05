@@ -7,7 +7,7 @@ tags:
   - chatgpt_rewrite
 ---
 
-![maze](maze.jpg)
+![maze](assets/images/maze.jpg)
 Life often feels like a maze, with numerous paths leading you incredibly close to something significant. However, hitting a wall forces you to backtrack.
 
 In this maze, a few paths involve fame, such as religion, spirituality, or reconnecting with nature.

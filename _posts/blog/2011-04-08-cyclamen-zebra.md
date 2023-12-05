@@ -21,4 +21,4 @@ What I have learned recently is that they are both found in herds or grow in clu
 
 I see I'm not single, but there are others that they felt social isolation and felt their individuality.
 
-Gather together and fill one with their friends as individuals together, but all are special, all are beautiful, there is no envy but the joy of togetherness. [![](assets/images/rakefot.jpg "rakefot")](http://aviwollman.files.wordpress.com/2011/04/rakefot.jpg)
+Gather together and fill one with their friends as individuals together, but all are special, all are beautiful, there is no envy but the joy of togetherness. [![rakefot](assets/images/rakefot.jpg)

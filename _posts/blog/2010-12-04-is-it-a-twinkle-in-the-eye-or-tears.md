@@ -6,7 +6,7 @@ authors:
 tags:
   - chatgpt_rewrite
 ---
-![eye twinkle](twinkle_twinkle_little_eye_by_countessbathori_d1f5sc8.jpg)
+![eye twinkle](assets/images/twinkle_twinkle_little_eye_by_countessbathori_d1f5sc8.jpg)
 
 When you see sadness in someone's eyes, it's likely not stemming from an external lack but rather an internal emptiness. They may wish to believe it's something external, like a need for love and care, providing a momentary relief akin to a short-lived painkiller.
 

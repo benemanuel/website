@@ -21,4 +21,4 @@ But only with Israel and the Torah that God revealed to His prophets gives weigh
 
 You cannot fix Ego without God. No connection to God without correction Ego.
 
-[![statue of Boris Schatz, "Moses" (1918)](assets/images/22032011369.jpg "moses")](http://aviwollman.files.wordpress.com/2011/04/22032011369.jpg)
+[![statue of Boris Schatz, "Moses" (1918)](assets/images/22032011369.jpg)

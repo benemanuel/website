@@ -1,5 +1,5 @@
 ---
-title: "## the two sided coin of life"
+title: the two sided coin of life
 created: 2010-12-12
 authors:
   - avrahambenemanuel

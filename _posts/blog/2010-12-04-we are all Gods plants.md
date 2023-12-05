@@ -6,7 +6,7 @@ authors:
 tags:
   - chatgpt_rewrite
 ---
-![sunflower](sunflower.jpg)
+![sunflower](assets/images/sunflower.jpg)
 
 I see myself as a plant in God's garden, a unique one among many.
 
