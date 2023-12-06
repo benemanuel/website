@@ -8,7 +8,7 @@
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
-<p><h2><center> {{ title }} </center></h2></p>
+<p><h2><center> {{ page.title }} </center></h2></p>
 
 {% assign paragraphs = page.content | newline_to_br | strip_newlines | split: '<br />' %}
 {% for p in paragraphs %}
