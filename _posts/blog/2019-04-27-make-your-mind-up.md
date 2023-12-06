@@ -9,7 +9,7 @@ authors:
 
 Leave unsurely and live (for to live you must decide) , go forth in a way you understand. )Proverbs 9:6(
 
-The answer “I don’t know” isn’t very helpful. (see post [https://aviwollman.wordpress.com/2015/02/25/liveliving-diedying/](https://aviwollman.wordpress.com/2015/02/25/liveliving-diedying/))
+The answer “I don’t know” isn’t very helpful. (see post [liveliving-diedying](liveliving-diedying))
 
 One has to decide. Otherwise they get “stuck in the mud”.
 

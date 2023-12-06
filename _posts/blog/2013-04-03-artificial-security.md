@@ -9,4 +9,4 @@ I notice that tendency of hanging on to things I imagine giving me security. The
 
 God whats us to feel our security in Him no less then any of the rest of the list we carry around.
 
-[https://aviwollman.wordpress.com/2008/11/28/the-blanket-of-infancy/](https://aviwollman.wordpress.com/2008/11/28/the-blanket-of-infancy/)
+[the-blanket-of-infancy](the-blanket-of-infancy)
