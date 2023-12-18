@@ -14,3 +14,5 @@ Remove Richard Stallman
 The imagination that we can clean ourselves of evil by ourselves is a joke.
 
 We are in essence evil, it is part of us. We need to understand that that power to clean which we use, is just as evil as the evil itself.
+
+[https://geoff.greer.fm/2019/09/30/in-defense-of-richard-stallman/](https://geoff.greer.fm/2019/09/30/in-defense-of-richard-stallman/)

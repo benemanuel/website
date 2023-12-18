@@ -25,7 +25,8 @@ I do not know if this tradition is right or wrong. But I do note three different
 
 תורה שבכתב
 
-𐤁𐤓𐤀𐤔𐤉𐤕𐤁𐤓𐤀𐤀𐤋𐤄𐤉𐤌𐤀𐤕𐤄𐤔𐤌𐤉𐤌𐤅𐤀𐤕𐤄𐤀𐤓𐤑
+𐤁𐤓𐤀𐤔𐤉𐤕𐤁𐤓𐤀𐤀𐤋𐤄𐤉𐤌𐤀𐤕𐤄𐤔𐤌𐤉𐤌𐤅𐤀𐤕𐤄𐤀𐤓𐤑 
+*Some have commented that early hebrew (paleo-hebrew) had dots between the words. But note that Hebrew is the rich in non-segmental multiword tokens, so the space or dot is limited.*
 
 בכתב עברי הקדום in paleo-hebrew
 

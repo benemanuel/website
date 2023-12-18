@@ -22,3 +22,6 @@ Then the father drew three sticks from the bundle and handed one to each of his 
 "Let the sticks teach you," said the father to his sons, "how strong you are when you are allied together, and how easily you can be broken on your own."
 
 In unity there is strength
+
+
+[https://fablesofaesop.com/the-father-his-sons-and-the-bundle-of-sticks.html](https://fablesofaesop.com/the-father-his-sons-and-the-bundle-of-sticks.html)

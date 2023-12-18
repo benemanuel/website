@@ -13,3 +13,7 @@ authors:
 
 
 Were are we going ?
+
+A person plans his course,  
+but the Lord directs his steps. (Proverbs 16:9)
+לֵ֣ב אָ֭דָם יְחַשֵּׁ֣ב דַּרְכֹּ֑ו וַֽ֝יהֹוָ֗ה יָכִ֥ין צַֽעֲדֹֽו׃ משלי טז,ט
