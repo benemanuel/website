@@ -63,3 +63,88 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+ 10. independent docker setup as not to limit just github and to add searching (2do)
+mkdir jekyll
+cd jekyll/
+docker run -v $(pwd):/site bretfisher/jekyll new .
+git clone  https://github.com/benemanuel/website.git
+cd website
+
+ docker-compose.yml
+# no version needed since 2020
+
+services:
+  jekyll:
+    image: bretfisher/jekyll-serve
+    restart: always
+    volumes:
+      - .:/site
+    ports:
+      - 127.0.0.1:4000:4000
+
+docker-compose up -d
+/etc/nginx/sites-available/blog.conf
+ 
+ server {
+#    listen [::]:443 ssl ipv6only=on; # managed by Certbot
+#    listen 443 ssl; # managed by Certbot
+
+    server_name  benemanuel.geulah.org.il;
+
+    access_log  /var/log/nginx/benemanuel.access.log;
+    error_log   /var/log/nginx/benemanuel.error.log;
+
+    location / {
+      proxy_pass http://localhost:4000;
+      proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+  }
+
+
+    listen 443 ssl; # managed by Certbot
+    ssl_certificate /etc/letsencrypt/live/plausible.geulah.org.il/fullchain.pem; # managed by Certbot
+    ssl_certificate_key /etc/letsencrypt/live/plausible.geulah.org.il/privkey.pem; # managed by Certbot
+    include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; # managed by Certbot
+
+
+
+}
+
+server {
+    if ($host = benemanuel.geulah.org.il) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+
+
+  server_name  benemanuel.geulah.org.il;
+  listen       80;
+  listen       [::]:80;
+ # Force redirection to https on nginx side
+  location / {
+        return 301 https://$host$request_uri;
+  }
+  server_name  benemanuel.geulah.org.il;
+  return 404; # managed by Certbot
+
+
+}
+server {
+    if ($host = benemanuel.geulah.org.il) {
+        return 301 https://$host$request_uri;
+    } # managed by Certbot
+
+
+
+    server_name  benemanuel.geulah.org.il;
+    listen 80;
+    return 404; # managed by Certbot
+
+
+}
+
+
+ln -s /etc/nginx/sites-available/blog.conf /etc/nginx/sites-enabled/.
+certbot --nginx
+service nginx stop
+service nginx start
+
