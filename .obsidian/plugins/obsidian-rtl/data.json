@@ -1,8 +1,5 @@
 {
-  "fileDirections": {
-    "_posts/blog/2023-10-17-ישראל-ביחד-ינצח.md": "rtl",
-    "_posts/blog/2012-10-18-why-the-commandments.md": "auto"
-  },
+  "fileDirections": {},
   "defaultDirection": "rtl",
   "rememberPerFile": true,
   "setNoteTitleDirection": true,

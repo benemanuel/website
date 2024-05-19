@@ -1,0 +1,10 @@
+---
+title: "An eye opening trip"
+created: 2015-05-26
+authors: 
+  - avrahambenemanuel
+---
+
+Yesterday I was invited to a religious family event. The affair while not from a distance point of view, faraway. Yet light years away both in the cultural and in the physical location it was to take place. At first I just wasn't sure I would attend. Family is nice, but...  Added was voices of uncomfortableness as the car was possibly going with me. Was the the effort and expenses worth it? Attempting to find "a way to make everyone happy" I asked if a ride there and back was available for myself. And lo and behold there was, but... I knew that some of the participants would be needing ride back, and if I take the only space, who will help them. With all this in mind I announced that I will be going and taking a empty car, arranged that the car would be to my disposal and ... The trip there was pleasant generally speaking conversation with a hitchhiker was nice. The hills were alive and spring was in its full presence. Going through towns which I never had passed before was a wee bit tight.  Being surrounded by people who I don't normally hang out with was a bit unnerving (and I haven't gotten to the event yet). Arriving as for some reason exactly on time (a habit I find hard to kick) I waited and chatted patiently until all the excuses were finished and the event began (only a hour late, when will I learn...) In general I have a positive attitude toward family events and handle the religiosity with ease. This time I felt more so how a event is being stolen from that warmth of a family affair and slaughtered for the cold and heartless religion. The rest went fine with more pleasant conversation. Even the way back (yes the car was full) went okay, succeeding in "making everyone happy"  even when no longer being expected to.
+
+So were was the eye opener that the title clams? Everywhere. Everywhere I allowed not to know or understand, my eyes were filled with knowledge, patients,  understanding, love and  appreciation of the gifts that God has and will give us. While hate and disgust to all those thing that take us from all of those.
