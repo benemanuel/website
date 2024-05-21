@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f3d9b68fc99f6cfa",
+        "id": "47d40dd8ffb75eeb",
         "type": "tabs",
         "children": [
           {
-            "id": "4d6a45f75957a169",
+            "id": "ef2cf38c900e668f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52352d002a442b17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/blog/2024-05-19-are-you-allowing-Israel-to-be-your-blind-spot.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "לוד",
+                "query": "Holocaust-of-Jews-in-biblical-times",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -86,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/blog/2024-05-19-are-you-allowing-Israel-to-be-your-blind-spot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/blog/2024-05-19-are-you-allowing-Israel-to-be-your-blind-spot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/blog/2024-05-19-are-you-allowing-Israel-to-be-your-blind-spot.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -168,16 +148,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "52352d002a442b17",
+  "active": "ef2cf38c900e668f",
   "lastOpenFiles": [
-    "_posts/blog/2024-01-24-namesake.md",
+    "_posts/blog/2014-10-03-Holocaust-of-Jews-in-biblical-times.md",
+    "index.md",
+    "_site/README.md",
     "_posts/blog/2024-05-19-are-you-allowing-Israel-to-be-your-blind-spot.md",
+    "_site/Holocaust-of-Jews-in-biblical-times.html",
+    "_site/הריעו.html",
+    "_posts/blog/2024-01-24-namesake.md",
     "_posts/blog/2023-12-10-who-am-i-for-you-who-are-you-for-me.md",
     "2014-10-03.md",
     "_posts/blog/2009-09-27-זהות-עצמי-who-am-I-אני-משאני-מאמין-I-am-what-I-believe.md",
     "_posts/blog/2014-10-08-why-is-god-so-mean.md",
     "_posts/blog/2014-10-03-שואת-יהודים-בתקופת-המקרא.md",
-    "_posts/blog/2014-10-03-Holocaust-of-Jews-in-biblical-times.md",
     "_posts/blog/2014-09-25-הריעו.md",
     "_posts/blog/2014-09-25-cheers.md",
     "_posts/blog/2023-10-09-using-the-dominant-strategy-being-with-god.md",
@@ -194,8 +178,6 @@
     "_posts/blog/2011-04-08-רקפת-וזברה.md",
     "_posts/blog/2011-04-09-tel-hai-the-statue-of-boris-schatz-moses-1918.md",
     "_posts/blog/2011-04-09-תל-חי-את-פסלו-של-בוריס-שץ-משה-1918.md",
-    "_posts/blog/2011-04-11-the-prayers-charms-medicine-that-remove-man-from-the-world.md",
-    "_posts/blog/2011-04-11-התפילה-סגולה-ורפואה-שמוצאים-את-האדם-מ.md",
     "_posts/blog - Copy/_sass.code-workspace",
     "_posts/blog - Copy",
     "_posts/blog.7z.tmp",
@@ -206,8 +188,6 @@
     "_site/assets/images/PXL_20230217_042254948.jpg",
     "assets/images/PXL_20230217_042254948.jpg",
     "assets/images/PXL_20230217_042254948.jpg.crdownload",
-    "_site/who-am-i-for-you-who-are-you-for-me.html",
-    "_site/שוב-הקריאה.html",
     "_site/assets/images/twinkle_twinkle_little_eye_by_countessbathori_d1f5sc8.jpg",
     "_site/assets/images/target-life-goals.png",
     "_site/assets/images/sunflower.jpg",

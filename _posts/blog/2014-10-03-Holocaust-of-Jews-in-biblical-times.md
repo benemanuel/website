@@ -1,7 +1,7 @@
 ---
-title: "שואת יהודים בתקופת המקרא"
+title: Holocaust of Jews in biblical times
 created: 2014-10-03
-authors: 
+authors:
   - avrahambenemanuel
 ---
 I saw this article and thought it was worth posting.
