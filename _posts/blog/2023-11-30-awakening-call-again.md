@@ -23,7 +23,7 @@ That same spirit which connects all the tribes of Israel to be one.
 That same spirit which knows its mission to be the light among the nations and by being together is not confused and conflicted.
 
 There are still some who are not ready to hear.
-*Then some people said, “Come on! Let us consider how to deal with Jeremiah! There will still be priests to instruct us, wise men to give us advice, and prophets to declare God’s word. Come on! Let’s bring charges against him and get rid of him! Then we will not need to pay attention to anything he says.”*
+*Then some people said, “Come on! Let us consider how to deal with Jeremiah! There will still be priests to instruct us, wise men to give us advice, and prophets to declare God’s word. Come on! Let’s bring charges against him and get rid of him! Then we will not need to pay attention to anything he says.”*
 
 *Then I said,*
 

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "47d40dd8ffb75eeb",
+        "id": "46ce468214e62845",
         "type": "tabs",
         "children": [
           {
-            "id": "ef2cf38c900e668f",
+            "id": "520622d5df90e5f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/blog/2024-07-25-מעל-פסגת-הר-הצופים.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Holocaust-of-Jews-in-biblical-times",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -69,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/blog/2024-07-25-מעל-פסגת-הר-הצופים.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/blog/2024-07-25-מעל-פסגת-הר-הצופים.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/blog/2024-07-25-מעל-פסגת-הר-הצופים.md"
+              }
             }
           }
         ]
@@ -148,8 +155,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ef2cf38c900e668f",
+  "active": "520622d5df90e5f5",
   "lastOpenFiles": [
+    "_posts/blog/2024-07-25-upon-the-summit-of-mount-scopus.md",
+    "_posts/blog/2024-07-25-מעל-פסגת-הר-הצופים.md",
+    "_posts/blog/2024-05-24-משפט-שלמה-על-התינוק.md",
+    "_posts/blog/2024-05-24-solomon-judgement-of-the-baby.md",
+    "_posts/blog/2024-05-24-משפט-שלמה-על-התינוק",
+    "_posts/blog/Solomon judgement of the baby.md",
     "_posts/blog/2014-10-03-Holocaust-of-Jews-in-biblical-times.md",
     "index.md",
     "_site/README.md",
@@ -173,11 +186,6 @@
     "_posts/blog/2011-04-12-איך-היה-החופש.md",
     "_posts/blog/2011-04-13-signs-of-the-way-symbols-of-passover.md",
     "_posts/blog/2011-04-08-cyclamen-zebra.md",
-    "_posts/blog/2011-04-08-אלבום-הדרך.md",
-    "_posts/blog/2011-04-08-photos-of-the-trip.md",
-    "_posts/blog/2011-04-08-רקפת-וזברה.md",
-    "_posts/blog/2011-04-09-tel-hai-the-statue-of-boris-schatz-moses-1918.md",
-    "_posts/blog/2011-04-09-תל-חי-את-פסלו-של-בוריס-שץ-משה-1918.md",
     "_posts/blog - Copy/_sass.code-workspace",
     "_posts/blog - Copy",
     "_posts/blog.7z.tmp",
@@ -187,7 +195,6 @@
     "_posts/blog.7z",
     "_site/assets/images/PXL_20230217_042254948.jpg",
     "assets/images/PXL_20230217_042254948.jpg",
-    "assets/images/PXL_20230217_042254948.jpg.crdownload",
     "_site/assets/images/twinkle_twinkle_little_eye_by_countessbathori_d1f5sc8.jpg",
     "_site/assets/images/target-life-goals.png",
     "_site/assets/images/sunflower.jpg",
