@@ -16,10 +16,27 @@
                 "file": "_posts/blog/2024-07-25-upon-the-summit-of-mount-scopus.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-07-25-upon-the-summit-of-mount-scopus"
+            }
+          },
+          {
+            "id": "348bc389850fffda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/blog/2025-01-16-Gods-gifts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-16-Gods-gifts"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -70,14 +93,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 356.5
   },
   "right": {
     "id": "73bf71f25142c6ca",
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/blog/2024-07-25-upon-the-summit-of-mount-scopus.md",
+                "file": "_posts/blog/2025-01-16-Gods-gifts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +126,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-01-16-Gods-gifts"
             }
           },
           {
@@ -110,10 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/blog/2024-07-25-upon-the-summit-of-mount-scopus.md",
+                "file": "_posts/blog/2025-01-16-Gods-gifts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-01-16-Gods-gifts"
             }
           },
           {
@@ -124,7 +153,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -133,8 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/blog/2024-07-25-upon-the-summit-of-mount-scopus.md"
-              }
+                "file": "_posts/blog/2025-01-16-Gods-gifts.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-01-16-Gods-gifts"
             }
           }
         ]
@@ -155,12 +188,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "520622d5df90e5f5",
+  "active": "348bc389850fffda",
   "lastOpenFiles": [
     "_posts/blog/2024-07-25-מעל-פסגת-הר-הצופים.md",
-    "_posts/blog/2024-07-25-upon-the-summit-of-mount-scopus.md",
-    "_posts/blog/2024-05-24-משפט-שלמה-על-התינוק.md",
+    "_posts/blog/2025-01-16-Gods-gifts.md",
     "_posts/blog/2024-05-24-solomon-judgement-of-the-baby.md",
+    "_posts/blog/Gods-gifts-2025-01-16.md",
+    "_posts/blog/2024-05-24-משפט-שלמה-על-התינוק.md",
+    "_posts/blog/2024-07-25-upon-the-summit-of-mount-scopus.md",
+    "Untitled.canvas",
     "_posts/blog/2024-05-24-משפט-שלמה-על-התינוק",
     "_posts/blog/Solomon judgement of the baby.md",
     "_posts/blog/2014-10-03-Holocaust-of-Jews-in-biblical-times.md",
@@ -184,8 +220,6 @@
     "_posts/blog/2011-04-18-holiday-of-freedom.md",
     "_posts/blog/2011-04-13-סימני-החיים-וסימני-סדר-פסח.md",
     "_posts/blog/2011-04-12-איך-היה-החופש.md",
-    "_posts/blog/2011-04-13-signs-of-the-way-symbols-of-passover.md",
-    "_posts/blog/2011-04-08-cyclamen-zebra.md",
     "_posts/blog - Copy/_sass.code-workspace",
     "_posts/blog - Copy",
     "_posts/blog.7z.tmp",
@@ -202,7 +236,6 @@
     "_site/assets/images/rivers-of-babylon.jpg",
     "_site/assets/images/maze.jpg",
     "_site/assets/images/d1f5sc8-8b374104-514f-4405-a6f7-d83692b5949b.jpg",
-    "_site/assets/images/caterpillar-6.jpg",
-    "Untitled.canvas"
+    "_site/assets/images/caterpillar-6.jpg"
   ]
 }
