@@ -204,6 +204,31 @@
       "id": "editing-toolbar:workplace-fullscreen-focus",
       "name": "workplace-Fullscreen ",
       "icon": "exit-fullscreen"
+    },
+    {
+      "id": "app:open-vault",
+      "name": "Open another vault",
+      "icon": "vault"
+    },
+    {
+      "id": "workspace:previous-tab",
+      "name": "Go to previous tab",
+      "icon": "lucide-arrow-left",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Ctrl",
+            "Shift"
+          ],
+          "key": "Tab"
+        },
+        {
+          "modifiers": [
+            "Ctrl"
+          ],
+          "key": "PageUp"
+        }
+      ]
     }
   ],
   "appendMethod": "workspace",
@@ -211,7 +236,7 @@
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
-  "cMenuWidth": 502,
+  "cMenuWidth": 554,
   "cMenuFontColor": "#c00000",
   "cMenuBackgroundColor": "#d3f8b6",
   "autohide": false,
