@@ -11,10 +11,14 @@
             "id": "71dcba8c8c2739c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/blog/2025-05-12-instantaneous-death.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-05-12-instantaneous-death"
             }
           }
         ]
@@ -145,12 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "_posts/blog/2025-05-12-instantaneous-death.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-05-12-instantaneous-death"
             }
           }
         ],
@@ -171,9 +176,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "895f92f33af59ff6",
+  "active": "71dcba8c8c2739c7",
   "lastOpenFiles": [
     "_posts/blog/2025-04-30-מחשבות-ליום-הזיכרון.md",
+    "_posts/blog/2025-05-12-instantaneous-death.md",
     "_posts/blog/2025-01-16-Gods-gifts.md",
     "Untitled 1.canvas",
     "_posts/blog/2024-07-25-מעל-פסגת-הר-הצופים.md",
@@ -203,7 +209,6 @@
     "_posts/blog/2011-04-18-חג-החירות.md",
     "_posts/blog/2011-04-18-spring-is-here-and-the-plants-are-flowering.md",
     "_posts/blog/2011-04-18-holiday-of-freedom.md",
-    "_posts/blog/2011-04-13-סימני-החיים-וסימני-סדר-פסח.md",
     "_posts/blog - Copy/_sass.code-workspace",
     "_posts/blog - Copy",
     "_posts/blog.7z.tmp",
