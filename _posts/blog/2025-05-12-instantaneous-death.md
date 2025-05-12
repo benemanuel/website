@@ -16,4 +16,17 @@ The more deeply you are attached to the physical world, the longer the process o
 
 This is why the idea of instantaneous death is so difficult to comprehend. It does not truly exist in the way we imagine it. Death is not a single moment. It is a passage. And how long that passage feels depends not on the clock, but on the soul.
 
+
+A profound image of such a transition is in the verse:
+
+> **"וַיְהִי בְּעֶצֶם הַיּוֹם הַזֶּה, הוֹצִיא יְהוָה אֶת־בְּנֵי יִשְׂרָאֵל מֵאֶרֶץ מִצְרַיִם עַל־צִבְאֹתָם."**  
+> (שמות פרק י״ב פסוק נ״א)
+
+_"And it came to pass on that very day, the Lord brought the Children of Israel out of the land of Egypt by their divisions."_
+
+This was not merely a historical departure. Egypt—*Mitzrayim*, from the root *metzarim*, "narrow places"—is a symbol of spiritual constriction and physical limitation. The exodus is a metaphor for the soul's release from bondage. And just like the exodus, **this release happens not randomly, but with purpose, structure, and divine timing**.
+
+"On that very day" shows that transitions like these are real, anchored in sacred timing. "By their divisions" reminds us that souls do not leave haphazardly, but in alignment with who they are, what they carry, and where they are going.
+
 Understanding this can shift the way we live. If we carry less attachment, less fear, and more openness to the non-physical, death becomes less of a terrifying endpoint and more of a natural unfolding. It becomes a return, not an end. In that sense, the true preparation for death is not found in medicine or ritual. It begins with learning to loosen our grip on what we believe defines us here.
+
