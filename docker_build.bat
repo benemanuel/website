@@ -1,4 +1,4 @@
-bundle update --bundler 
+
 docker build -t website   --no-cache=true .
 docker run -p 4000:4000  -itd --name aviweb website
 
