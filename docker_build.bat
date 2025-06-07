@@ -1,4 +1,4 @@
-
+bundle update --bundler 
 docker build -t website   --no-cache=true .
 docker run -p 4000:4000  -itd --name aviweb website
 
@@ -12,3 +12,4 @@ c:\temp\dockerstop_kill.bat websitebenemanuel-jekyll-1
 
 c:\temp\dockerstop_kill.bat aviweb
 docker rmi website
+
