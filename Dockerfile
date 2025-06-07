@@ -46,9 +46,9 @@ RUN apt-get -y install git \
 # "GitHub Pages/Jekyll is based on Ruby. Set the version and path"
 # "As of this writing, use Ruby 3.1.2
 # "Based on: https://talk.jekyllrb.com/t/liquid-4-0-3-tainted/7946/12"
-ENV RBENV_ROOT /usr/local/src/rbenv
-ENV RUBY_VERSION 3.1.2
-ENV PATH ${RBENV_ROOT}/bin:${RBENV_ROOT}/shims:$PATH
+ENV RBENV_ROOT=/usr/local/src/rbenv
+ENV RUBY_VERSION=3.1.2
+ENV PATH=${RBENV_ROOT}/bin:${RBENV_ROOT}/shims:$PATH
 
 # "#################################################"
 # "Install rbenv to manage Ruby versions"
