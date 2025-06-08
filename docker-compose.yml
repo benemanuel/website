@@ -3,6 +3,8 @@
 services:
   jekyll:
     image: bretfisher/jekyll-serve
+    hostname: blog-web-server
+    container_name: blog-web-server
     restart: always
     volumes:
       - .:/site
