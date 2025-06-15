@@ -1,9 +1,11 @@
 ---
-title: The Postmodern Soul and the Choice for Redemption
-created: 2025-07-07
-authors: 
+title: 2025-06-07-the-postmodern-soul-and-the-choice-for-redemption
+created: 2025-06-15
+authors:
   - avrahambenemanuel
 ---
+
+
 **The Postmodern Soul and the Choice for Redemption**
 
 We live in an age of awakening wrapped in noise. Gen Z and those coming of age in this digital world are skeptical, disillusioned, and hyper-aware. They say:
