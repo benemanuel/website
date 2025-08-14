@@ -7,6 +7,11 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
+  <div class="home-banner">
+    <h2>Welcome to {{ site.title }}</h2>
+    <p>{{ site.subtitle }}</p>
+  </div>
+
   {{ content }}
 
   {%- if site.posts.size > 0 -%}

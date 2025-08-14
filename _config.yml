@@ -18,15 +18,16 @@ subtitle: When you feel something right, share it
 email: benemanuel at geulah dot org dot il
 description: >- # this means to ignore newlines until "baseurl:"
   Avi (Wollman) Benemanuel's Homepage
-baseurl: "/website" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://benemanuel.geulah.org.il" # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username: AviBenemanuel
 github_username:  benemanuel
-facebook_username: son.of.emanuel
 instagram_username: avrahambenemanuel
 linkedin_username: avibenemanuel
 youtube_username: AvrahamBenEmanuel
-
+facebook_username: son.of.emanuel 
+reddit_username: benemanuel
 # Build settings
 markdown: kramdown
 theme: minima
@@ -44,7 +45,8 @@ minima:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+  exclude:
+    _posts\blog-Copy
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
@@ -54,5 +56,15 @@ minima:
 #   - vendor/ruby/
 google_analytics: G-NVGSYBHJFV
 show_excerpts: true
+# Customize excerpt behavior
+excerpt_separator: <!--more-->
+excerpt_length: 50  # Number of words in auto-generated excerpts
 # the little icon that appears in the browser window's tab
 favicon: assets/favicon.ico
+
+# Content settings
+content_lang:
+  default: en
+  available:
+    - en
+    - he
