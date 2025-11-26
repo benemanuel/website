@@ -1,0 +1,12 @@
+# no version needed since 2020
+
+services:
+  jekyll:
+    image: bretfisher/jekyll-serve
+    hostname: blog-web-server
+    container_name: blog-web-server
+    restart: always
+    volumes:
+      - .:/site
+    ports:
+      - 127.0.0.1:4000:4000

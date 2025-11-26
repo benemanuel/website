@@ -1,12 +1,19 @@
-# no version needed since 2020
-
 services:
   jekyll:
-    image: bretfisher/jekyll-serve
-    hostname: blog-web-server
-    container_name: blog-web-server
-    restart: always
+    image: jekyll/jekyll:4.3.2
+    container_name: blog-web-server-builder
+    hostname: blog-web-server-builder
     volumes:
-      - .:/site
+      - .:/srv/jekyll
+    command: >
+      sh -c "bundle install && JEKYLL_ENV=production bundle exec jekyll build"
+
+  web:
+    image: nginx:alpine
+    container_name: blog-web-server
+    hostname: blog-web-server
+    restart: always
     ports:
-      - 127.0.0.1:4000:4000
+      - "4007:80"
+    volumes:
+      - ./_site:/usr/share/nginx/html:ro
