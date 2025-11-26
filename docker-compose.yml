@@ -1,19 +1,20 @@
+version: "3.9"
+
 services:
   jekyll:
-    image: jekyll/jekyll:4.3.2
-    container_name: blog-web-server-builder
-    hostname: blog-web-server-builder
+    image: bretfisher/jekyll-serve
+    container_name: blog-builder
     volumes:
-      - .:/srv/jekyll
-    command: >
-      sh -c "bundle install && JEKYLL_ENV=production bundle exec jekyll build"
+      - .:/site
+    command: jekyll build      # Build once
+    # Optional: remove after build
+    restart: "no"
 
   web:
     image: nginx:alpine
     container_name: blog-web-server
-    hostname: blog-web-server
-    restart: always
     ports:
-      - "4007:80"
+      - "4007:80"              # host:container
     volumes:
       - ./_site:/usr/share/nginx/html:ro
+    restart: always
