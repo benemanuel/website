@@ -1,5 +1,5 @@
 ---
-title: The Architect of the Cage: Joseph Karo 
+title: The Architect of the Cage Joseph Karo 
 created: 2026-01-22
 authors: 
   - avrahambenemanuel
@@ -7,7 +7,7 @@ authors:
 
 # The Architect of the Cage: Joseph Karo and the Spirit of the Law
 
-The life and work of Rabbi Joseph Karo (1488–1575) represent a pivotal moment in the history of faith. As the author of the _Shulchan Aruch_, the definitive code of Jewish law, Karo is celebrated as a pillar of Orthodoxy. However, a deeper look into his mystical diary, [_Maggid Mesharim](http://www.hebrew.grimoar.cz/karo/magid_mesarim.htm)_, reveals a complex spiritual mechanism: the process by which a man-made system of logic replaces a direct connection to the Infinite.
+The life and work of Rabbi Joseph Karo (1488–1575) represent a pivotal moment in the history of faith. As the author of the _Shulchan Aruch_, the definitive code of Jewish law, Karo is celebrated as a pillar of Orthodoxy. However, a deeper look into his mystical diary, [_Maggid Mesharim_](http://www.hebrew.grimoar.cz/karo/magid_mesarim.htm), reveals a complex spiritual mechanism: the process by which a man-made system of logic replaces a direct connection to the Infinite.
 
 ### The Gravity of Want
 
