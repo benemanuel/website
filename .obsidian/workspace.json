@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/blog/2026-01-22-the-architect-of-the-cage.md",
+                "file": "_posts/blog/2008-11-28-the-blanket-of-infancy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-22-the-architect-of-the-cage"
+              "title": "2008-11-28-the-blanket-of-infancy"
             }
           }
         ]
@@ -149,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/blog/2026-01-22-the-architect-of-the-cage.md",
+                "file": "_posts/blog/2008-11-28-the-blanket-of-infancy.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-01-22-the-architect-of-the-cage"
+              "title": "Outline of 2008-11-28-the-blanket-of-infancy"
             }
           }
         ],
@@ -179,8 +179,10 @@
   },
   "active": "f8f331f7a0b5647b",
   "lastOpenFiles": [
-    "_posts/blog/2025-07-01-the-sound-of-silence.md",
+    "assets/images/god_children_cover.jpg.jpg",
+    "assets/images/WhatsApp Image 2025-11-12 at 13.41.27_b95b8851.jpg",
     "_posts/blog/2026-01-22-the-architect-of-the-cage.md",
+    "_posts/blog/2025-07-01-the-sound-of-silence.md",
     "_template/sample.md",
     "index.md",
     "_template 1/sample.md",
@@ -205,7 +207,6 @@
     "_posts/blog-Copy/2015-08-08-ביטקוין-הוכחת-עבודה.md",
     "_posts/blog-Copy/2015-03-13-mid-march-phobia-2015.md",
     "_posts/blog/2014-05-13-מה-שהיה-הוא-שיהיה-ומה-שנעשה-הוא-שיעשה-ו.md",
-    "_posts/blog-Copy/2014-09-25-cheers.md",
     "update.bat",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -225,7 +226,6 @@
     "_site/assets/images/scales-of-justice-clipart.png",
     "_site/assets/images/rivers-of-babylon.jpg",
     "_site/assets/images/maze.jpg",
-    "_site/assets/images/d1f5sc8-8b374104-514f-4405-a6f7-d83692b5949b.jpg",
-    "_site/assets/images/caterpillar-6.jpg"
+    "_site/assets/images/d1f5sc8-8b374104-514f-4405-a6f7-d83692b5949b.jpg"
   ]
 }
