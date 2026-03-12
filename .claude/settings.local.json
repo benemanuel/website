@@ -6,7 +6,8 @@
       "Bash(curl:*)",
       "Bash(docker exec:*)",
       "Bash(docker-compose down:*)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(chmod:*)"
     ]
   }
 }

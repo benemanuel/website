@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2008-11-28-the-blanket-of-infancy"
             }
+          },
+          {
+            "id": "8eb52d13c9ec2478",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,13 +162,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/blog/2008-11-28-the-blanket-of-infancy.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2008-11-28-the-blanket-of-infancy"
+              "title": "Outline"
             }
           }
         ],
@@ -177,7 +189,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f8f331f7a0b5647b",
+  "active": "8eb52d13c9ec2478",
   "lastOpenFiles": [
     "assets/images/god_children_cover.jpg.jpg",
     "assets/images/WhatsApp Image 2025-11-12 at 13.41.27_b95b8851.jpg",
