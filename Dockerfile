@@ -1,12 +1,16 @@
 FROM ruby:3.1-alpine
+ENV PAGES_REPO_NWO="https://github.com/benemanuel/website"
 
 # Install build tools required for native gem extensions
 RUN apk add --no-cache build-base git
 
+# Update RubyGems to the specific version required
+RUN gem update --system 4.0.11
+
 # Set working directory
 WORKDIR /srv/jekyll
 
-# Install github-pages (includes correct Jekyll and pinned gems)
+# Install bundler and github-pages using the updated system gems
 RUN gem install bundler github-pages
 
 # Copy site into image
