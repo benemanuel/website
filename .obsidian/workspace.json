@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "2008-11-28-the-blanket-of-infancy"
             }
-          },
-          {
-            "id": "8eb52d13c9ec2478",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,12 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "_posts/blog/2008-11-28-the-blanket-of-infancy.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2008-11-28-the-blanket-of-infancy"
             }
           }
         ],
@@ -189,8 +177,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8eb52d13c9ec2478",
+  "active": "f8f331f7a0b5647b",
   "lastOpenFiles": [
+    "_posts/blog/2026-05-14-one-nation-of-tribes.md",
     "assets/images/god_children_cover.jpg.jpg",
     "assets/images/WhatsApp Image 2025-11-12 at 13.41.27_b95b8851.jpg",
     "_posts/blog/2026-01-22-the-architect-of-the-cage.md",
@@ -237,7 +226,6 @@
     "_site/assets/images/sunflower.jpg",
     "_site/assets/images/scales-of-justice-clipart.png",
     "_site/assets/images/rivers-of-babylon.jpg",
-    "_site/assets/images/maze.jpg",
-    "_site/assets/images/d1f5sc8-8b374104-514f-4405-a6f7-d83692b5949b.jpg"
+    "_site/assets/images/maze.jpg"
   ]
 }
