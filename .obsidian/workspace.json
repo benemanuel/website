@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/blog/2008-11-28-the-blanket-of-infancy.md",
+                "file": "_posts/blog/2026-06-18-Sky-natural-time-is-here.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2008-11-28-the-blanket-of-infancy"
+              "title": "2026-06-18-Sky-natural-time-is-here"
             }
           }
         ]
@@ -149,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/blog/2008-11-28-the-blanket-of-infancy.md",
+                "file": "_posts/blog/2026-06-18-Sky-natural-time-is-here.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2008-11-28-the-blanket-of-infancy"
+              "title": "Outline of 2026-06-18-Sky-natural-time-is-here"
             }
           }
         ],
@@ -179,12 +179,17 @@
   },
   "active": "f8f331f7a0b5647b",
   "lastOpenFiles": [
+    "_template/sample.md",
+    "_posts/blog/2026-06-18-Sky-natural-time-is-here.md",
+    "_posts/blog/Sky natural time is here.md",
+    "assets/images/watchface_shot.png",
+    "2025-08-14-using-content-elements.md",
+    "_posts/blog/2008-11-28-the-blanket-of-infancy.md",
     "_posts/blog/2026-05-14-one-nation-of-tribes.md",
     "assets/images/god_children_cover.jpg.jpg",
     "assets/images/WhatsApp Image 2025-11-12 at 13.41.27_b95b8851.jpg",
     "_posts/blog/2026-01-22-the-architect-of-the-cage.md",
     "_posts/blog/2025-07-01-the-sound-of-silence.md",
-    "_template/sample.md",
     "index.md",
     "_template 1/sample.md",
     "_template 1",
@@ -204,10 +209,6 @@
     "_posts/blog/2015-10-13-arabs-the-time-is-now-to-show-patriotism.md",
     "_posts/blog-Copy/2016-03-08-מי-את-עליהנה-בת-גאל.md",
     "_posts/blog-Copy/2015-10-13-arabs-the-time-is-now-to-show-patriotism.md",
-    "_posts/blog/2015-08-08-ביטקוין-הוכחת-עבודה.md",
-    "_posts/blog-Copy/2015-08-08-ביטקוין-הוכחת-עבודה.md",
-    "_posts/blog-Copy/2015-03-13-mid-march-phobia-2015.md",
-    "_posts/blog/2014-05-13-מה-שהיה-הוא-שיהיה-ומה-שנעשה-הוא-שיעשה-ו.md",
     "update.bat",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -225,7 +226,6 @@
     "_site/assets/images/target-life-goals.png",
     "_site/assets/images/sunflower.jpg",
     "_site/assets/images/scales-of-justice-clipart.png",
-    "_site/assets/images/rivers-of-babylon.jpg",
-    "_site/assets/images/maze.jpg"
+    "_site/assets/images/rivers-of-babylon.jpg"
   ]
 }
