@@ -28,7 +28,7 @@ I’ve built this concept into an open-source project. You can find the reposito
 
 The project which started with a simple tile based design became one which is so simple.
 
-The web site https://sky.geulah.org.il/ is still with the tiles
+The [web site](https://sky.geulah.org.il/) is still with the tiles
 The apps  ![watchface](assets/images/watchface_shot.png)
 
    Unified four-ring "cycle" design across the phone app, home-screen widget, and Wear OS watch face, driven by a shared `:core` module.
@@ -54,4 +54,4 @@ The apps  ![watchface](assets/images/watchface_shot.png)
    - `Sky-release.apk` — phone app 
    - `wear-release.apk` — watch face
    
- **Check out the project on GitHub:** [https://github.com/benemanuel/SKY/]
+ **Check out the project on GitHub:** [GitHub SKY](https://github.com/benemanuel/SKY/)
