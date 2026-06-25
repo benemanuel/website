@@ -44,10 +44,12 @@ permalink: :title
 minima:
   date_format: "%d/%m/%Y"
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-  exclude:
-    _posts\blog-Copy
+# The following items will not be processed. This must be a top-level key
+# (not nested under minima) and use forward slashes.
+exclude:
+  - CLAUDE.md
+  - 2025-08-14-using-content-elements.md
+  - _posts/blog-Copy
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules

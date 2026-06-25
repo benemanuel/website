@@ -148,3 +148,30 @@ certbot --nginx
 service nginx stop
 service nginx start
 
+## Note: keeping doc/non-content files out of the published site
+
+Any markdown or text file in the repo **without YAML front matter** is copied
+into `_site` verbatim as a static file and ends up published. This is how
+`CLAUDE.md` and `2025-08-14-using-content-elements.md` were leaking onto the
+live site.
+
+To keep a doc/non-content file from being published, do one of:
+
+1. Add it to the top-level `exclude:` list in `_config.yml` (must be top-level,
+   not nested under `minima:`, and use forward slashes):
+
+   ```yaml
+   exclude:
+     - CLAUDE.md
+     - 2025-08-14-using-content-elements.md
+     - _posts/blog-Copy
+   ```
+
+2. Give it YAML front matter with `published: false`.
+
+3. Put it in a directory whose name starts with `_` (Jekyll ignores those).
+
+After rebuilding, confirm it's gone:
+
+    ls _site/CLAUDE.md   # should be "No such file"
+
