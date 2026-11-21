@@ -6,7 +6,7 @@ services:
     volumes:
       - .:/site
     command: >
-      sh -c "apk add --no-cache build-base git nodejs yarn &&
+      sh -c "apk add --no-cache build-base git nodejs yarn openssl-dev &&
              gem install bundler -v 2.6.7 &&
              bundle install &&
              bundle exec jekyll build"

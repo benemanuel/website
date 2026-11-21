@@ -2,7 +2,7 @@ FROM ruby:3.1-alpine
 ENV PAGES_REPO_NWO="https://github.com/benemanuel/website"
 
 # Install build tools required for native gem extensions
-RUN apk add --no-cache build-base git
+RUN apk add --no-cache build-base git openssl-dev
 
 # Update RubyGems to the specific version required
 RUN gem update --system 4.0.11
